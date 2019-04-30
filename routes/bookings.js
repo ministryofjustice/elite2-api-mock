@@ -3,6 +3,8 @@ const express = require('express')
 const router = express.Router()
 const fs = require('fs')
 
+const alerts = require('./stubs/alerts')
+
 router.get('/:bookingId/aliases', (req, res) => {
   res.send([
     {
@@ -73,6 +75,15 @@ router.get('/:bookingId/relationships', (req, res) => {
       personId: 123,
     },
   ])
+})
+
+router.get('/:bookingId/alerts', (req, res) => {
+  const { bookingId } = req.params
+  res.send(
+    alerts.filter(alert => {
+      return parseInt(bookingId) === alert.bookingId
+    })
+  )
 })
 
 router.get('/offenderNo/:imageId/image/data', (req, res) => {
