@@ -1,8 +1,8 @@
 module.exports = [
   {
     alertId: 1,
-    bookingId: 41,
-    offenderNo: '111111',
+    bookingId: 1234,
+    offenderNo: 'A1234BC',
     alertType: 'string',
     alertTypeDescription: 'string',
     alertCode: 'string',
@@ -19,8 +19,8 @@ module.exports = [
   },
   {
     alertId: 2,
-    bookingId: 42,
-    offenderNo: '222222',
+    bookingId: 1235,
+    offenderNo: 'A1234BD',
     alertType: 'string',
     alertTypeDescription: 'string',
     alertCode: 'string',
