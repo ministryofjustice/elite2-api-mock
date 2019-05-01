@@ -1,6 +1,6 @@
 # Elite2 API mock
 
-Nomis mocks for the licences service built in node
+Nomis mocks for use with PECS Move Platform backend development.
 
 # Get Started
 
