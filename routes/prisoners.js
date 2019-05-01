@@ -4,7 +4,7 @@ const router = express.Router()
 
 const prisoners = [
   {
-    offenderNo: '111111',
+    offenderNo: 'A1234BC',
     title: 'Mr',
     suffix: 'string',
     firstName: 'Derek',
@@ -33,7 +33,7 @@ const prisoners = [
     currentWorkingBirthDate: 'string',
   },
   {
-    offenderNo: '222222',
+    offenderNo: 'A1234BD',
     title: 'Mr',
     suffix: 'string',
     firstName: 'Rodney',
@@ -77,6 +77,15 @@ router.get('/', (req, res) => {
         return lastName === prisoner.lastName.toUpperCase() && prisoner.firstName.toUpperCase().includes(firstName)
       }
       return undefined
+    })
+  )
+})
+
+router.get('/:offenderNo', (req, res) => {
+  const { offenderNo } = req.params
+  res.send(
+    prisoners.filter(prisoner => {
+      return offenderNo === prisoner.offenderNo
     })
   )
 })
