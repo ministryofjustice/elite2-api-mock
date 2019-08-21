@@ -59,14 +59,18 @@ router.get('/', (req, res) => {
 })
 
 router.get('/transfers', (req, res) => {
-  // const { fromDateTime, toDateTime, agencyId } = req.query
-  fs.readFile('./fixtures/temp.json.ejs', 'utf-8', (err, template) => {
+  const { fromDateTime, agencyId } = req.query
+  const midnightToday = new Date()
+  midnightToday.setUTCHours(0, 0, 0, 0)
+  const date = new Date(`${fromDateTime}Z`)
+  date.setUTCHours(0, 0, 0, 0)
+  const dateOffset = (date - midnightToday) / (24 * 60 * 60 * 1000)
+
+  fs.readFile(`./fixtures/moves-${dateOffset}-${agencyId}.json.ejs`, 'utf-8', (err, template) => {
     if (err) {
       throw err
     }
 
-    const date = new Date()
-    date.setDate(date.getDate() - 1)
     res.setHeader('Content-Type', 'application/json')
     res.send(ejs.render(template, { date }, {}))
   })
