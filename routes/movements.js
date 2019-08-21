@@ -1,4 +1,6 @@
 const express = require('express')
+const fs = require('fs')
+const ejs = require('ejs')
 
 const router = express.Router()
 
@@ -39,7 +41,7 @@ const movements = [
 
 router.get('/', (req, res) => {
   // The toDateTime arg is a proposed extension
-  const { fromDateTime, toDateTime, agencyId } = req.query
+  const { fromDateTime, toDateTime } = req.query
   res.send(
     movements.filter(movement => {
       if (fromDateTime && !toDateTime) {
@@ -54,6 +56,20 @@ router.get('/', (req, res) => {
       return true
     })
   )
+})
+
+router.get('/transfers', (req, res) => {
+  // const { fromDateTime, toDateTime, agencyId } = req.query
+  fs.readFile('./fixtures/temp.json.ejs', 'utf-8', (err, template) => {
+    if (err) {
+      throw err
+    }
+
+    const date = new Date()
+    date.setDate(date.getDate() - 1)
+    res.setHeader('Content-Type', 'application/json')
+    res.send(ejs.render(template, { date }, {}))
+  })
 })
 
 router.post('/offenders', (req, res) => {
