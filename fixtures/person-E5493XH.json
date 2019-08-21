@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E5493XH",
+    "firstName": "Alise",
+    "middleNames": "Janey",
+    "lastName": "Harris",
+    "dateOfBirth": "1978-03-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "OWI",
+    "latestLocation": "OAKWOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/548179E",
+    "croNumber": "53268/52Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

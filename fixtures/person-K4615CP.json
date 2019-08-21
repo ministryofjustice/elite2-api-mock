@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4615CP",
+    "firstName": "Shad",
+    "middleNames": "Lloyd",
+    "lastName": "Fritsch",
+    "dateOfBirth": "1999-02-16",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BLI",
+    "latestLocation": "BRISTOL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/612759C",
+    "croNumber": "83921/71X",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

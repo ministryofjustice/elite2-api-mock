@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J6582PF",
+    "firstName": "Armanda",
+    "middleNames": "Kindra",
+    "lastName": "Wunsch",
+    "dateOfBirth": "1983-05-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/685429K",
+    "croNumber": "32751/28F",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

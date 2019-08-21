@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X7651TM",
+    "firstName": "Murray",
+    "middleNames": "Teodora",
+    "lastName": "Bartell",
+    "dateOfBirth": "1969-10-25",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SKI",
+    "latestLocation": "STOCKEN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "84/237954T",
+    "croNumber": "34562/97M",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

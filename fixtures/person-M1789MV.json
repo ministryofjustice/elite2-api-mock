@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M1789MV",
+    "firstName": "Demarcus",
+    "middleNames": "Alvaro",
+    "lastName": "Lind",
+    "dateOfBirth": "1959-06-16",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LFI",
+    "latestLocation": "LANCASTER FARMS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/376829P",
+    "croNumber": "54369/63W",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

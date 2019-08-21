@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6791EU",
+    "firstName": "Janette",
+    "middleNames": "Jacob",
+    "lastName": "Flatley",
+    "dateOfBirth": "1971-08-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/635489R",
+    "croNumber": "97623/97E",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

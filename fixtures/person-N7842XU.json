@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N7842XU",
+    "firstName": "Jaye",
+    "middleNames": "Tamesha",
+    "lastName": "McClure",
+    "dateOfBirth": "1998-08-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "79/238174X",
+    "croNumber": "41589/53M",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

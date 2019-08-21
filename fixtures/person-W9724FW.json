@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W9724FW",
+    "firstName": "Nana",
+    "middleNames": "Svetlana",
+    "lastName": "Prosacco",
+    "dateOfBirth": "1986-07-29",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HLI",
+    "latestLocation": "HULL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/297654J",
+    "croNumber": "61598/19M",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

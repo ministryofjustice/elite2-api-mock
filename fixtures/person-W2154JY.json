@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W2154JY",
+    "firstName": "Cortney",
+    "middleNames": "Tarsha",
+    "lastName": "Rolfson",
+    "dateOfBirth": "1964-11-28",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BRI",
+    "latestLocation": "BURE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/285974A",
+    "croNumber": "93526/15P",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Hungary",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

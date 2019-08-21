@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P1724PX",
+    "firstName": "Darryl",
+    "middleNames": "Alease",
+    "lastName": "Rath",
+    "dateOfBirth": "1998-03-07",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BWI",
+    "latestLocation": "BERWYN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/685791T",
+    "croNumber": "96123/79N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

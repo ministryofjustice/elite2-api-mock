@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R3216CY",
+    "firstName": "Augustus",
+    "middleNames": "Alfredo",
+    "lastName": "Jacobi",
+    "dateOfBirth": "1949-11-13",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MDI",
+    "latestLocation": "MOORLAND (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/821967M",
+    "croNumber": "78392/28X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

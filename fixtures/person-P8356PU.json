@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P8356PU",
+    "firstName": "Evonne",
+    "middleNames": "Wilford",
+    "lastName": "Barrows",
+    "dateOfBirth": "1957-07-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HOI",
+    "latestLocation": "HIGH DOWN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/132576U",
+    "croNumber": "62479/72T",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

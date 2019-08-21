@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E4697EX",
+    "firstName": "Isidro",
+    "middleNames": "Mabel",
+    "lastName": "Bartell",
+    "dateOfBirth": "1974-09-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "68/153927X",
+    "croNumber": "45172/67A",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

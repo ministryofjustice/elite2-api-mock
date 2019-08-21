@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9678RX",
+    "firstName": "Renda",
+    "middleNames": "Brian",
+    "lastName": "Jacobson",
+    "dateOfBirth": "1973-08-26",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TSI",
+    "latestLocation": "THAMESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/486139Y",
+    "croNumber": "96574/96W",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

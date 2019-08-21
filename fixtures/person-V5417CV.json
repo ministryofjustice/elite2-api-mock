@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5417CV",
+    "firstName": "Mathilda",
+    "middleNames": "Petra",
+    "lastName": "Effertz",
+    "dateOfBirth": "1949-10-29",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/358761U",
+    "croNumber": "32745/71Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

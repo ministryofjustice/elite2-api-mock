@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K1683UA",
+    "firstName": "Jamison",
+    "middleNames": "Yvonne",
+    "lastName": "Walsh",
+    "dateOfBirth": "1960-07-20",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EEI",
+    "latestLocation": "ERLESTOKE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/439267A",
+    "croNumber": "52718/69W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

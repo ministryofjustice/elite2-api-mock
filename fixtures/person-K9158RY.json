@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K9158RY",
+    "firstName": "Cassy",
+    "middleNames": "Francis",
+    "lastName": "Welch",
+    "dateOfBirth": "1979-05-20",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BRI",
+    "latestLocation": "BURE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/814269Y",
+    "croNumber": "12863/48T",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

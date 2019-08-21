@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2947KH",
+    "firstName": "Giuseppina",
+    "middleNames": "Antoine",
+    "lastName": "Raynor",
+    "dateOfBirth": "1986-10-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BLI",
+    "latestLocation": "BRISTOL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/938724E",
+    "croNumber": "31752/16R",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

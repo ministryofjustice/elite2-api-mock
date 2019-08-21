@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V4581KX",
+    "firstName": "Sherry",
+    "middleNames": "Mayme",
+    "lastName": "Williamson",
+    "dateOfBirth": "1973-05-19",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UKI",
+    "latestLocation": "USK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/982351F",
+    "croNumber": "94153/82T",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

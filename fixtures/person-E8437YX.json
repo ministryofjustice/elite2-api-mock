@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E8437YX",
+    "firstName": "Kirstie",
+    "middleNames": "Tobie",
+    "lastName": "Kuhlman",
+    "dateOfBirth": "1962-01-30",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/145378E",
+    "croNumber": "48691/82H",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Greece",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

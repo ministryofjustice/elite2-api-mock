@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8432UY",
+    "firstName": "Jules",
+    "middleNames": "Douglass",
+    "lastName": "Fritsch",
+    "dateOfBirth": "1978-11-23",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/159876T",
+    "croNumber": "35641/75N",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Poland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

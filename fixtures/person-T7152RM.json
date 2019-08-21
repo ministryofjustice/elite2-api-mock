@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T7152RM",
+    "firstName": "Connie",
+    "middleNames": "Brain",
+    "lastName": "Veum",
+    "dateOfBirth": "1989-11-27",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/157328P",
+    "croNumber": "21854/23J",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

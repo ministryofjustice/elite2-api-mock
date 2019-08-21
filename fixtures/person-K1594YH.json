@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K1594YH",
+    "firstName": "Isis",
+    "middleNames": "Joaquin",
+    "lastName": "Bergnaum",
+    "dateOfBirth": "1959-11-13",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SLI",
+    "latestLocation": "SWALESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/682791M",
+    "croNumber": "58324/71R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

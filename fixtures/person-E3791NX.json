@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E3791NX",
+    "firstName": "Cassy",
+    "middleNames": "Barbar",
+    "lastName": "Raynor",
+    "dateOfBirth": "1940-08-26",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/189573J",
+    "croNumber": "83569/16T",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

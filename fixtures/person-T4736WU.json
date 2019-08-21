@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T4736WU",
+    "firstName": "Eura",
+    "middleNames": "Louie",
+    "lastName": "Mueller",
+    "dateOfBirth": "1990-04-05",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UPI",
+    "latestLocation": "PRESCOED (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/628731C",
+    "croNumber": "69742/69E",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H2456WR",
+    "firstName": "Odell",
+    "middleNames": "Milan",
+    "lastName": "Zulauf",
+    "dateOfBirth": "1994-03-08",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RCI",
+    "latestLocation": "ROCHESTER (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/162357T",
+    "croNumber": "48621/95V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

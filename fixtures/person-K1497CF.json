@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K1497CF",
+    "firstName": "Keenan",
+    "middleNames": "Nancy",
+    "lastName": "Walter",
+    "dateOfBirth": "1993-02-19",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EEI",
+    "latestLocation": "ERLESTOKE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/923651R",
+    "croNumber": "74281/93T",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

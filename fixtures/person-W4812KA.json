@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4812KA",
+    "firstName": "Kyla",
+    "middleNames": "Mae",
+    "lastName": "Smitham",
+    "dateOfBirth": "1957-05-04",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "29/326791P",
+    "croNumber": "49857/63N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

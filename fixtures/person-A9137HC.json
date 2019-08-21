@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A9137HC",
+    "firstName": "Arron",
+    "middleNames": "Erin",
+    "lastName": "Bailey",
+    "dateOfBirth": "1981-04-27",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NSI",
+    "latestLocation": "NORTH SEA CAMP (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/128973W",
+    "croNumber": "83542/71W",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Italy",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P4135VP",
+    "firstName": "Maynard",
+    "middleNames": "Bill",
+    "lastName": "Dooley",
+    "dateOfBirth": "1940-03-10",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/846923H",
+    "croNumber": "91534/28C",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

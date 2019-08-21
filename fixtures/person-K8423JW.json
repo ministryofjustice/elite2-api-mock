@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K8423JW",
+    "firstName": "Kasey",
+    "middleNames": "Avery",
+    "lastName": "Bogisich",
+    "dateOfBirth": "1997-12-27",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EHI",
+    "latestLocation": "STANDFORD HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/431852K",
+    "croNumber": "52134/41E",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8954FR",
+    "firstName": "Elbert",
+    "middleNames": "Chantay",
+    "lastName": "Reichel",
+    "dateOfBirth": "1964-05-31",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RHI",
+    "latestLocation": "RYE HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/725914Y",
+    "croNumber": "96172/36C",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

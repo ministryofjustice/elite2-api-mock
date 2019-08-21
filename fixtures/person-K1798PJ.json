@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K1798PJ",
+    "firstName": "Karissa",
+    "middleNames": "Clara",
+    "lastName": "Borer",
+    "dateOfBirth": "1948-09-25",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/617598M",
+    "croNumber": "59368/46J",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Scotland",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

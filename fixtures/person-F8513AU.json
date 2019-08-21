@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8513AU",
+    "firstName": "Elisha",
+    "middleNames": "Noah",
+    "lastName": "Gorczany",
+    "dateOfBirth": "1985-10-14",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RSI",
+    "latestLocation": "RISLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/893621V",
+    "croNumber": "63892/57P",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

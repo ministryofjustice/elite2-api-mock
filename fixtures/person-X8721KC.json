@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8721KC",
+    "firstName": "Timothy",
+    "middleNames": "Danyelle",
+    "lastName": "Connelly",
+    "dateOfBirth": "1956-12-05",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CLI",
+    "latestLocation": "COLDINGLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/417628N",
+    "croNumber": "63295/81Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

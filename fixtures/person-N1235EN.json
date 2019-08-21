@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N1235EN",
+    "firstName": "Mckinley",
+    "middleNames": "Enola",
+    "lastName": "Durgan",
+    "dateOfBirth": "1950-03-01",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EXI",
+    "latestLocation": "EXETER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/854621M",
+    "croNumber": "84536/37J",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Romania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

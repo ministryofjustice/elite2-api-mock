@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C9325YA",
+    "firstName": "Laticia",
+    "middleNames": "Josef",
+    "lastName": "Koss",
+    "dateOfBirth": "1966-06-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BNI",
+    "latestLocation": "BULLINGDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "29/147526R",
+    "croNumber": "87612/84J",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

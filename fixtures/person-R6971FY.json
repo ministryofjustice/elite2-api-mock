@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6971FY",
+    "firstName": "Glenn",
+    "middleNames": "Bradly",
+    "lastName": "Bradtke",
+    "dateOfBirth": "1949-03-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HCI",
+    "latestLocation": "HUNTERCOMBE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/498731W",
+    "croNumber": "65721/35X",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Romania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

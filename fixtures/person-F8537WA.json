@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8537WA",
+    "firstName": "Ling",
+    "middleNames": "Lashaun",
+    "lastName": "Beahan",
+    "dateOfBirth": "1959-07-09",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HII",
+    "latestLocation": "HINDLEY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/265839X",
+    "croNumber": "21497/45J",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N4957YR",
+    "firstName": "Rey",
+    "middleNames": "Jo",
+    "lastName": "Macejkovic",
+    "dateOfBirth": "1977-12-23",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/498562F",
+    "croNumber": "73546/67W",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8964AY",
+    "firstName": "Enrique",
+    "middleNames": "Edmund",
+    "lastName": "Effertz",
+    "dateOfBirth": "1972-02-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TSI",
+    "latestLocation": "THAMESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/936854E",
+    "croNumber": "76243/71W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

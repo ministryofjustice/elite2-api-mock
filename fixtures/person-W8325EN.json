@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8325EN",
+    "firstName": "Tula",
+    "middleNames": "George",
+    "lastName": "Runolfsdottir",
+    "dateOfBirth": "1982-03-03",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/261798F",
+    "croNumber": "76954/39F",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

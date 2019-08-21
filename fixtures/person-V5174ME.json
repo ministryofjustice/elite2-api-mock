@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5174ME",
+    "firstName": "Luise",
+    "middleNames": "Rupert",
+    "lastName": "Christiansen",
+    "dateOfBirth": "1947-04-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PVI",
+    "latestLocation": "PENTONVILLE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/381257N",
+    "croNumber": "82596/56J",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Poland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

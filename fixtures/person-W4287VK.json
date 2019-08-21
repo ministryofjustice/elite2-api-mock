@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4287VK",
+    "firstName": "Chang",
+    "middleNames": "Jamar",
+    "lastName": "Weissnat",
+    "dateOfBirth": "1998-03-01",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DGI",
+    "latestLocation": "DOVEGATE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/895371V",
+    "croNumber": "93276/36T",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

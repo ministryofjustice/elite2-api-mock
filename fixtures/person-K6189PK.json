@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6189PK",
+    "firstName": "Leigh",
+    "middleNames": "Wilton",
+    "lastName": "Daniel",
+    "dateOfBirth": "1943-02-28",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HLI",
+    "latestLocation": "HULL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/928165H",
+    "croNumber": "64832/68N",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

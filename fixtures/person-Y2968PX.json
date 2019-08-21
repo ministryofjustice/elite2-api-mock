@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y2968PX",
+    "firstName": "Tam",
+    "middleNames": "Ada",
+    "lastName": "Schulist",
+    "dateOfBirth": "1990-07-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/291584C",
+    "croNumber": "23984/32N",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

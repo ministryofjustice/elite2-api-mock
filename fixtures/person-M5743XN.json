@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M5743XN",
+    "firstName": "Adrian",
+    "middleNames": "Gus",
+    "lastName": "Marquardt",
+    "dateOfBirth": "1951-01-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/359841K",
+    "croNumber": "64857/23P",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

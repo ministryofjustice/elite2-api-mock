@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H1982NM",
+    "firstName": "Ashleigh",
+    "middleNames": "Garrett",
+    "lastName": "Hansen",
+    "dateOfBirth": "1966-09-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LYI",
+    "latestLocation": "LEYHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/958462N",
+    "croNumber": "43719/75U",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

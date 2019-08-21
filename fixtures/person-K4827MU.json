@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4827MU",
+    "firstName": "Virgil",
+    "middleNames": "Pilar",
+    "lastName": "Fisher",
+    "dateOfBirth": "1975-06-02",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BSI",
+    "latestLocation": "BRINSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/439287W",
+    "croNumber": "74823/95M",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

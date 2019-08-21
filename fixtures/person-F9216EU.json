@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F9216EU",
+    "firstName": "Pat",
+    "middleNames": "Corinna",
+    "lastName": "Padberg",
+    "dateOfBirth": "1960-03-26",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RHI",
+    "latestLocation": "RYE HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/298513E",
+    "croNumber": "52879/16F",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

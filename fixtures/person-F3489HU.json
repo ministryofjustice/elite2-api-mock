@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3489HU",
+    "firstName": "John",
+    "middleNames": "Joseph",
+    "lastName": "Murazik",
+    "dateOfBirth": "1986-04-20",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FMI",
+    "latestLocation": "FELTHAM (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/239167R",
+    "croNumber": "47152/62K",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Viet Nam",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

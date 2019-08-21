@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X9648CV",
+    "firstName": "Andres",
+    "middleNames": "Elsa",
+    "lastName": "Herzog",
+    "dateOfBirth": "1977-05-25",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PFI",
+    "latestLocation": "PETERBOROUGH FEMALE HMP",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/845793X",
+    "croNumber": "48395/13Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Italy",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

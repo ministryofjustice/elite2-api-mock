@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U1865TW",
+    "firstName": "Shane",
+    "middleNames": "Kieth",
+    "lastName": "Dibbert",
+    "dateOfBirth": "1973-04-23",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "IWI",
+    "latestLocation": "ISLE OF WIGHT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/594832C",
+    "croNumber": "94283/83E",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

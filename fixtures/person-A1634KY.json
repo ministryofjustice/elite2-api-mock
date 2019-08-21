@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A1634KY",
+    "firstName": "Oscar",
+    "middleNames": "Gino",
+    "lastName": "Gusikowski",
+    "dateOfBirth": "1980-03-18",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/217584E",
+    "croNumber": "29615/69R",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

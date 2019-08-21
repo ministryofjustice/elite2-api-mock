@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3218HM",
+    "firstName": "Jin",
+    "middleNames": "Fernande",
+    "lastName": "Rempel",
+    "dateOfBirth": "1990-09-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/531462A",
+    "croNumber": "65719/51A",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

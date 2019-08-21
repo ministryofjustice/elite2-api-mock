@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H7346AP",
+    "firstName": "Jermaine",
+    "middleNames": "Rodrigo",
+    "lastName": "Bailey",
+    "dateOfBirth": "1944-01-26",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/964713F",
+    "croNumber": "94263/98Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

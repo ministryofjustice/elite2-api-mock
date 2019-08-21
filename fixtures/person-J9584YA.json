@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J9584YA",
+    "firstName": "Felisa",
+    "middleNames": "Mariano",
+    "lastName": "Gorczany",
+    "dateOfBirth": "1993-02-06",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PFI",
+    "latestLocation": "PETERBOROUGH FEMALE HMP",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "89/357248K",
+    "croNumber": "19845/72M",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C9218MR",
+    "firstName": "Felicidad",
+    "middleNames": "Trinidad",
+    "lastName": "Rippin",
+    "dateOfBirth": "1971-11-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NWI",
+    "latestLocation": "NORWICH (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/253964J",
+    "croNumber": "68324/15W",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4325WA",
+    "firstName": "Dion",
+    "middleNames": "Telma",
+    "lastName": "Heathcote",
+    "dateOfBirth": "1942-04-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MHI",
+    "latestLocation": "MORTON HALL IMMIGRATION REMOVAL CENTRE",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "89/569872M",
+    "croNumber": "35179/67W",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Sweden",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

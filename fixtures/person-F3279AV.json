@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3279AV",
+    "firstName": "Emile",
+    "middleNames": "Herlinda",
+    "lastName": "Grimes",
+    "dateOfBirth": "1977-05-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RSI",
+    "latestLocation": "RISLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "68/845923U",
+    "croNumber": "85693/16E",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

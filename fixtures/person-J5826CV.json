@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J5826CV",
+    "firstName": "Casey",
+    "middleNames": "Lauryn",
+    "lastName": "Rolfson",
+    "dateOfBirth": "1939-10-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "56/371624U",
+    "croNumber": "69214/98C",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

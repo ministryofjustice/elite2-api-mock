@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T9843VM",
+    "firstName": "Amado",
+    "middleNames": "Gaston",
+    "lastName": "Cummings",
+    "dateOfBirth": "1978-10-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ASI",
+    "latestLocation": "ASHFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "32/742185Y",
+    "croNumber": "21658/38U",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

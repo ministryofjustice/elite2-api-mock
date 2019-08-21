@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y4637PW",
+    "firstName": "Merrill",
+    "middleNames": "Brooks",
+    "lastName": "Yost",
+    "dateOfBirth": "1998-03-03",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/431827P",
+    "croNumber": "49381/27A",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

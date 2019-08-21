@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N8371FW",
+    "firstName": "Jerold",
+    "middleNames": "Howard",
+    "lastName": "Grimes",
+    "dateOfBirth": "1972-03-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ONI",
+    "latestLocation": "ONLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "27/162587M",
+    "croNumber": "12875/17K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R4938CP",
+    "firstName": "Mohammed",
+    "middleNames": "Mora",
+    "lastName": "Hegmann",
+    "dateOfBirth": "1948-06-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WCI",
+    "latestLocation": "WINCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/217398P",
+    "croNumber": "63978/62X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4716JX",
+    "firstName": "Otto",
+    "middleNames": "Tesha",
+    "lastName": "Considine",
+    "dateOfBirth": "1976-07-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/596832H",
+    "croNumber": "29145/65X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

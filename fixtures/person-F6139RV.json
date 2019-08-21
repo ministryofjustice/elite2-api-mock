@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F6139RV",
+    "firstName": "Cortney",
+    "middleNames": "Tillie",
+    "lastName": "Keeling",
+    "dateOfBirth": "1978-12-15",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/152364X",
+    "croNumber": "83716/19K",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

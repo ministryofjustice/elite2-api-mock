@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8241CR",
+    "firstName": "Rickey",
+    "middleNames": "Allen",
+    "lastName": "Paucek",
+    "dateOfBirth": "1984-10-19",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CKI",
+    "latestLocation": "COOKHAM WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/267138H",
+    "croNumber": "79386/14Y",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

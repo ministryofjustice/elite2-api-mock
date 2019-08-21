@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U3198PT",
+    "firstName": "Kenya",
+    "middleNames": "Scotty",
+    "lastName": "Lindgren",
+    "dateOfBirth": "1943-06-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LGI",
+    "latestLocation": "LOWDHAM GRANGE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "41/538621M",
+    "croNumber": "16932/38P",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Poland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

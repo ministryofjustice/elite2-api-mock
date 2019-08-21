@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K9567FK",
+    "firstName": "Bruce",
+    "middleNames": "Virgilio",
+    "lastName": "Padberg",
+    "dateOfBirth": "1944-10-01",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HEI",
+    "latestLocation": "HMP HEWELL",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/254837U",
+    "croNumber": "93675/68T",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

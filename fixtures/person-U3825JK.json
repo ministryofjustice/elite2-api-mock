@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U3825JK",
+    "firstName": "Ruthanne",
+    "middleNames": "Elvira",
+    "lastName": "Glover",
+    "dateOfBirth": "1996-10-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AGI",
+    "latestLocation": "ASKHAM GRANGE (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/682345T",
+    "croNumber": "53948/96K",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Viet Nam",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

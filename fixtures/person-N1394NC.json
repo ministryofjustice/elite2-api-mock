@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N1394NC",
+    "firstName": "Donnette",
+    "middleNames": "Golda",
+    "lastName": "Gerlach",
+    "dateOfBirth": "1995-10-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DWI",
+    "latestLocation": "DOWNVIEW (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/648597E",
+    "croNumber": "37548/15N",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

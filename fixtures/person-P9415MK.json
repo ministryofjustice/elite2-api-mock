@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9415MK",
+    "firstName": "Cleotilde",
+    "middleNames": "Otto",
+    "lastName": "Marvin",
+    "dateOfBirth": "1945-05-22",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/392765Y",
+    "croNumber": "59412/52J",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Sweden",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

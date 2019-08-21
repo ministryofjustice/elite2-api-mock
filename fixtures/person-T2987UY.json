@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T2987UY",
+    "firstName": "Adrian",
+    "middleNames": "Brooks",
+    "lastName": "Parisian",
+    "dateOfBirth": "1965-01-03",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RHI",
+    "latestLocation": "RYE HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/425673W",
+    "croNumber": "65917/36X",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

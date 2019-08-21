@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U7289NY",
+    "firstName": "Donn",
+    "middleNames": "Allen",
+    "lastName": "Hickle",
+    "dateOfBirth": "1942-04-26",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GMI",
+    "latestLocation": "GUYS MARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/712638J",
+    "croNumber": "41635/17P",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Poland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

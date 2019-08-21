@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V2946NR",
+    "firstName": "Kyung",
+    "middleNames": "Patrice",
+    "lastName": "Langosh",
+    "dateOfBirth": "1947-03-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SHI",
+    "latestLocation": "STOKE HEATH (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/819243E",
+    "croNumber": "37841/69F",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Viet Nam",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

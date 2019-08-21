@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4875EV",
+    "firstName": "Jaleesa",
+    "middleNames": "Hunter",
+    "lastName": "Huels",
+    "dateOfBirth": "1944-11-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KTI",
+    "latestLocation": "KENNET (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/493265T",
+    "croNumber": "39648/48R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

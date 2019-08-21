@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C6278WA",
+    "firstName": "Sanford",
+    "middleNames": "Caroll",
+    "lastName": "Effertz",
+    "dateOfBirth": "1947-01-02",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PFI",
+    "latestLocation": "PETERBOROUGH FEMALE HMP",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/538476H",
+    "croNumber": "68254/32R",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

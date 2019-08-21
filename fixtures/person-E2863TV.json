@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E2863TV",
+    "firstName": "Yuki",
+    "middleNames": "Omer",
+    "lastName": "Mraz",
+    "dateOfBirth": "1972-04-13",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/498312J",
+    "croNumber": "95721/68Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H6943NK",
+    "firstName": "Felecia",
+    "middleNames": "Raleigh",
+    "lastName": "Grimes",
+    "dateOfBirth": "1970-11-17",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GPI",
+    "latestLocation": "GLEN PARVA (HMPYOI & RC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/573268U",
+    "croNumber": "89743/86V",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

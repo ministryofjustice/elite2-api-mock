@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P6437PR",
+    "firstName": "Dori",
+    "middleNames": "Abel",
+    "lastName": "Fritsch",
+    "dateOfBirth": "1992-07-27",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/276835K",
+    "croNumber": "14325/85R",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

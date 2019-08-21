@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T8176XC",
+    "firstName": "Jaqueline",
+    "middleNames": "Marylee",
+    "lastName": "Abernathy",
+    "dateOfBirth": "1991-04-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BSI",
+    "latestLocation": "BRINSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "59/138742F",
+    "croNumber": "29458/97H",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

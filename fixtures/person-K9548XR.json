@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K9548XR",
+    "firstName": "Deanne",
+    "middleNames": "Reynaldo",
+    "lastName": "Marquardt",
+    "dateOfBirth": "1983-05-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EEI",
+    "latestLocation": "ERLESTOKE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/432816U",
+    "croNumber": "54983/15M",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F1643MH",
+    "firstName": "Marianna",
+    "middleNames": "Kendall",
+    "lastName": "Effertz",
+    "dateOfBirth": "1950-12-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WCI",
+    "latestLocation": "WINCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/178326C",
+    "croNumber": "23195/21E",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

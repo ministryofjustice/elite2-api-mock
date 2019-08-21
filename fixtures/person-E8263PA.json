@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E8263PA",
+    "firstName": "Yuriko",
+    "middleNames": "Karl",
+    "lastName": "Keebler",
+    "dateOfBirth": "1991-01-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BFI",
+    "latestLocation": "BEDFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "48/376481E",
+    "croNumber": "28795/87C",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

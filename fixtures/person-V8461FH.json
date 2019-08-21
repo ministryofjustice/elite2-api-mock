@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V8461FH",
+    "firstName": "Pauletta",
+    "middleNames": "Crystle",
+    "lastName": "Abernathy",
+    "dateOfBirth": "1995-09-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CWI",
+    "latestLocation": "CHANNINGS WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/913645H",
+    "croNumber": "69437/75F",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

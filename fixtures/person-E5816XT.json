@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E5816XT",
+    "firstName": "Dominique",
+    "middleNames": "Yen",
+    "lastName": "Kertzmann",
+    "dateOfBirth": "1941-09-05",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DAI",
+    "latestLocation": "DARTMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/613459E",
+    "croNumber": "24391/93H",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

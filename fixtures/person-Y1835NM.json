@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y1835NM",
+    "firstName": "Gavin",
+    "middleNames": "Esther",
+    "lastName": "Turner",
+    "dateOfBirth": "1994-03-27",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EHI",
+    "latestLocation": "STANDFORD HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/489716H",
+    "croNumber": "21798/51J",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Romania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

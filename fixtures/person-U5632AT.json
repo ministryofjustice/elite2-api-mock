@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U5632AT",
+    "firstName": "Grisel",
+    "middleNames": "Josiah",
+    "lastName": "Kirlin",
+    "dateOfBirth": "1976-04-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RCI",
+    "latestLocation": "ROCHESTER (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/569718A",
+    "croNumber": "18463/14W",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]
