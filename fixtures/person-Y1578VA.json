@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y1578VA",
+    "firstName": "Emile",
+    "middleNames": "Kirk",
+    "lastName": "Walker",
+    "dateOfBirth": "1996-10-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DMI",
+    "latestLocation": "DURHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "84/795128C",
+    "croNumber": "85694/69V",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

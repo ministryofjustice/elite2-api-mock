@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N7469XV",
+    "firstName": "Aletha",
+    "middleNames": "Joan",
+    "lastName": "Littel",
+    "dateOfBirth": "1954-01-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/951862H",
+    "croNumber": "12856/47Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

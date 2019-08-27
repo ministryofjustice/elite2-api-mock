@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V1624AC",
+    "firstName": "Dwain",
+    "middleNames": "Zachary",
+    "lastName": "Conroy",
+    "dateOfBirth": "1962-12-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CLI",
+    "latestLocation": "COLDINGLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/368219N",
+    "croNumber": "57841/29N",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Morocco",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

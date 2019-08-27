@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X9827KP",
+    "firstName": "Richard",
+    "middleNames": "Cecelia",
+    "lastName": "Kuhic",
+    "dateOfBirth": "1944-06-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/937284H",
+    "croNumber": "23794/61M",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

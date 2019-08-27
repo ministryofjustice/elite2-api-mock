@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W2861NJ",
+    "firstName": "Shery",
+    "middleNames": "Roxann",
+    "lastName": "Gerlach",
+    "dateOfBirth": "1996-09-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SWI",
+    "latestLocation": "SWANSEA (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/862341Y",
+    "croNumber": "48152/48Y",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P8794CP",
+    "firstName": "Desiree",
+    "middleNames": "Grady",
+    "lastName": "Yundt",
+    "dateOfBirth": "1973-11-16",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NWI",
+    "latestLocation": "NORWICH (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/421376C",
+    "croNumber": "43675/53A",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Scotland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

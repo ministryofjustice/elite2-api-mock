@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U2174WP",
+    "firstName": "Dannielle",
+    "middleNames": "Clair",
+    "lastName": "Durgan",
+    "dateOfBirth": "1990-10-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/598126U",
+    "croNumber": "65489/65U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Australia",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

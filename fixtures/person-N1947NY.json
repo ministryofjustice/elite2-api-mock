@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N1947NY",
+    "firstName": "Myles",
+    "middleNames": "Foster",
+    "lastName": "Ankunding",
+    "dateOfBirth": "1996-05-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KTI",
+    "latestLocation": "KENNET (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/529317T",
+    "croNumber": "89527/34J",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

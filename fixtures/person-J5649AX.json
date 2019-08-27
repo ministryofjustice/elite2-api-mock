@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J5649AX",
+    "firstName": "Allison",
+    "middleNames": "Otha",
+    "lastName": "Durgan",
+    "dateOfBirth": "1954-02-25",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/169485R",
+    "croNumber": "31946/15P",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

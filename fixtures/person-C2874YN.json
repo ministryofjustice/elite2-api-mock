@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C2874YN",
+    "firstName": "Johnetta",
+    "middleNames": "Lyndia",
+    "lastName": "Bernier",
+    "dateOfBirth": "1944-10-21",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LTI",
+    "latestLocation": "LITTLEHEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/264985P",
+    "croNumber": "43286/97X",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

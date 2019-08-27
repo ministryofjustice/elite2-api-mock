@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J9172FW",
+    "firstName": "Rosaria",
+    "middleNames": "Glen",
+    "lastName": "Zboncak",
+    "dateOfBirth": "1964-10-07",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BLI",
+    "latestLocation": "BRISTOL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/471235J",
+    "croNumber": "94671/32A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

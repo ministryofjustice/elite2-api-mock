@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T7695WP",
+    "firstName": "Porfirio",
+    "middleNames": "Delaine",
+    "lastName": "Durgan",
+    "dateOfBirth": "1980-09-19",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ASI",
+    "latestLocation": "ASHFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/617824P",
+    "croNumber": "86237/47V",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Pakistan",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C7241EY",
+    "firstName": "Peggy",
+    "middleNames": "Melani",
+    "lastName": "Hahn",
+    "dateOfBirth": "1944-04-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HII",
+    "latestLocation": "HINDLEY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/732958J",
+    "croNumber": "21489/67H",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W2148UT",
+    "firstName": "Linwood",
+    "middleNames": "Maximo",
+    "lastName": "Crona",
+    "dateOfBirth": "1985-07-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/352691C",
+    "croNumber": "54798/19U",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

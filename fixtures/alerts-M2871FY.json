@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RLO",
+    "alertCodeDescription": "Low - Workplace Risk Assessment",
+    "dateCreated": "2009-10-02",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "CHERRYL",
+    "addedByLastName": "DECKOW",
+    "expiredByFirstName": "ARNULFO",
+    "expiredByLastName": "BLICK",
+    "dateExpires": "2018-03-12",
+    "comment": null
+  }
+]

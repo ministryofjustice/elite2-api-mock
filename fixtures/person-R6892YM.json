@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6892YM",
+    "firstName": "Eulah",
+    "middleNames": "Eloy",
+    "lastName": "Harber",
+    "dateOfBirth": "1965-07-08",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/647398J",
+    "croNumber": "64953/32N",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Viet Nam",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

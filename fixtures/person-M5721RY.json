@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M5721RY",
+    "firstName": "Alix",
+    "middleNames": "Bennie",
+    "lastName": "Hayes",
+    "dateOfBirth": "1981-01-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FHI",
+    "latestLocation": "FOSTON HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/159873K",
+    "croNumber": "32598/96P",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "comment": null,
+    "dateCreated": "2013-06-19",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "KIMBERELY",
+    "addedByLastName": "EMMERICH",
+    "expiredByFirstName": "FERMIN",
+    "expiredByLastName": "O'REILLY",
+    "dateExpires": "2018-04-02"
+  },
+  {
+    "alertId": 2,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA",
+    "alertCodeDescription": "ACCT Open (HMPS)",
+    "comment": null,
+    "dateCreated": "2010-09-16",
+    "dateExpires": "2017-01-10",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "LANELLE",
+    "addedByLastName": "SCHULTZ",
+    "expiredByFirstName": "KENTON",
+    "expiredByLastName": "GRANT"
+  }
+]

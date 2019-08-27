@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9284JX",
+    "firstName": "Shelly",
+    "middleNames": "Riley",
+    "lastName": "Lowe",
+    "dateOfBirth": "1988-12-26",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HHI",
+    "latestLocation": "HOLME HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "84/235869W",
+    "croNumber": "45827/21A",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

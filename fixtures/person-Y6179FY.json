@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y6179FY",
+    "firstName": "Wallace",
+    "middleNames": "Weldon",
+    "lastName": "Erdman",
+    "dateOfBirth": "1974-04-13",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BSI",
+    "latestLocation": "BRINSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "84/139456W",
+    "croNumber": "53827/51W",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Viet Nam",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

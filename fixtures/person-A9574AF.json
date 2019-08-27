@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A9574AF",
+    "firstName": "Stephanie",
+    "middleNames": "Homer",
+    "lastName": "Schumm",
+    "dateOfBirth": "1939-11-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/754386H",
+    "croNumber": "12387/98P",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Albania",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

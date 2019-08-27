@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J5439YP",
+    "firstName": "Mable",
+    "middleNames": "Lamar",
+    "lastName": "Smitham",
+    "dateOfBirth": "1979-12-30",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/836751T",
+    "croNumber": "12894/23J",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

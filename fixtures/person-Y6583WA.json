@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y6583WA",
+    "firstName": "Saul",
+    "middleNames": "Chantell",
+    "lastName": "Tremblay",
+    "dateOfBirth": "1994-12-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MTI",
+    "latestLocation": "THE MOUNT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/782416P",
+    "croNumber": "68947/25C",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Romania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

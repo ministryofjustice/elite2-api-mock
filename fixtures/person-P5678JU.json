@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P5678JU",
+    "firstName": "Humberto",
+    "middleNames": "Malcom",
+    "lastName": "McDermott",
+    "dateOfBirth": "1943-10-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SUI",
+    "latestLocation": "SUDBURY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/615834W",
+    "croNumber": "87296/35W",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

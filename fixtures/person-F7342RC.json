@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F7342RC",
+    "firstName": "Jolie",
+    "middleNames": "Dalton",
+    "lastName": "Kuhlman",
+    "dateOfBirth": "1962-06-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GPI",
+    "latestLocation": "GLEN PARVA (HMPYOI & RC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/578946A",
+    "croNumber": "21435/85R",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

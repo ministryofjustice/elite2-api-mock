@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K9812CX",
+    "firstName": "Leeann",
+    "middleNames": "Ruby",
+    "lastName": "Gaylord",
+    "dateOfBirth": "1954-07-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ACI",
+    "latestLocation": "ALTCOURSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "63/174925P",
+    "croNumber": "43865/51M",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Albania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

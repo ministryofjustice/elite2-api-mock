@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F4381MK",
+    "firstName": "Pamelia",
+    "middleNames": "Josephine",
+    "lastName": "Hagenes",
+    "dateOfBirth": "1966-09-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "52/548729K",
+    "croNumber": "94381/62T",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Greece",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

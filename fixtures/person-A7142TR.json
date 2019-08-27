@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A7142TR",
+    "firstName": "Sherron",
+    "middleNames": "Bernard",
+    "lastName": "Crona",
+    "dateOfBirth": "1997-02-27",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "63/469875A",
+    "croNumber": "27893/16E",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R2187VT",
+    "firstName": "Mario",
+    "middleNames": "Willis",
+    "lastName": "Rau",
+    "dateOfBirth": "1993-09-06",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/157894C",
+    "croNumber": "65789/85T",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Pakistan",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

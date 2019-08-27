@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T2914PE",
+    "firstName": "Janell",
+    "middleNames": "Alonzo",
+    "lastName": "Labadie",
+    "dateOfBirth": "1946-01-23",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/478291A",
+    "croNumber": "23468/71R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

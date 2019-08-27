@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y5283VT",
+    "firstName": "Casey",
+    "middleNames": "Ardelle",
+    "lastName": "Watsica",
+    "dateOfBirth": "1994-08-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BSI",
+    "latestLocation": "BRINSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "27/351489E",
+    "croNumber": "92735/74F",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

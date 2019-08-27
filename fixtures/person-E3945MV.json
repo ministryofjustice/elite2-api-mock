@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E3945MV",
+    "firstName": "Wayne",
+    "middleNames": "Ivy",
+    "lastName": "Gutkowski",
+    "dateOfBirth": "1974-12-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/723854A",
+    "croNumber": "26594/42Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Romania",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

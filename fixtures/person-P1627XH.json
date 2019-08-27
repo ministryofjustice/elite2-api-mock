@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P1627XH",
+    "firstName": "Neomi",
+    "middleNames": "Emelda",
+    "lastName": "Kessler",
+    "dateOfBirth": "1980-01-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/418259Y",
+    "croNumber": "68135/12W",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

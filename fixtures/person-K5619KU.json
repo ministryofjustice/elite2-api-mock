@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5619KU",
+    "firstName": "Arnoldo",
+    "middleNames": "June",
+    "lastName": "Kohler",
+    "dateOfBirth": "1982-02-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/836451N",
+    "croNumber": "63981/72P",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9532FY",
+    "firstName": "Jesus",
+    "middleNames": "Moises",
+    "lastName": "Johnson",
+    "dateOfBirth": "1957-06-29",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "IWI",
+    "latestLocation": "ISLE OF WIGHT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/971836H",
+    "croNumber": "41967/64M",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Viet Nam",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

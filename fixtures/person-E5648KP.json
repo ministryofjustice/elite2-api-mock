@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E5648KP",
+    "firstName": "Sammy",
+    "middleNames": "Antonio",
+    "lastName": "Wolf",
+    "dateOfBirth": "1950-04-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BAI",
+    "latestLocation": "BELMARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/689237V",
+    "croNumber": "18723/53R",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

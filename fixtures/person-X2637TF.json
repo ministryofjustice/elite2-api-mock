@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2637TF",
+    "firstName": "Peter",
+    "middleNames": "Alfonso",
+    "lastName": "Hessel",
+    "dateOfBirth": "1999-05-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LCI",
+    "latestLocation": "LEICESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/537826W",
+    "croNumber": "86473/73T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Hungary",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

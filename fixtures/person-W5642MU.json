@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W5642MU",
+    "firstName": "Orpha",
+    "middleNames": "Devin",
+    "lastName": "Zemlak",
+    "dateOfBirth": "1967-03-23",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RCI",
+    "latestLocation": "ROCHESTER (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/254817Y",
+    "croNumber": "69548/69A",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Italy",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

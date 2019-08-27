@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E8324MH",
+    "firstName": "Sidney",
+    "middleNames": "Karl",
+    "lastName": "Koss",
+    "dateOfBirth": "1977-07-26",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LLI",
+    "latestLocation": "LONG LARTIN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/785962Y",
+    "croNumber": "47132/76E",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

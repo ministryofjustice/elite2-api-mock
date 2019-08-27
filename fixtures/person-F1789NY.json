@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F1789NY",
+    "firstName": "Ayanna",
+    "middleNames": "Jacinto",
+    "lastName": "Wunsch",
+    "dateOfBirth": "1963-11-29",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SKI",
+    "latestLocation": "STOCKEN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "17/614927C",
+    "croNumber": "47125/63P",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

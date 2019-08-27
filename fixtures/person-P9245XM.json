@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9245XM",
+    "firstName": "Ferne",
+    "middleNames": "Craig",
+    "lastName": "Pacocha",
+    "dateOfBirth": "1945-05-15",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/796352X",
+    "croNumber": "29845/12T",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R1762WP",
+    "firstName": "Leonardo",
+    "middleNames": "Graciela",
+    "lastName": "Daugherty",
+    "dateOfBirth": "1956-12-19",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "28/741962Y",
+    "croNumber": "69213/89K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

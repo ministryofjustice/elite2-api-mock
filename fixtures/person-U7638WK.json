@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U7638WK",
+    "firstName": "Clement",
+    "middleNames": "Cecil",
+    "lastName": "Hettinger",
+    "dateOfBirth": "1987-08-11",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DHI",
+    "latestLocation": "DRAKE HALL (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/369417E",
+    "croNumber": "83476/12E",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5489TY",
+    "firstName": "Robt",
+    "middleNames": "Brooks",
+    "lastName": "Reichel",
+    "dateOfBirth": "1986-12-15",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/812749Y",
+    "croNumber": "72581/35C",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2764YA",
+    "firstName": "Russ",
+    "middleNames": "Augustine",
+    "lastName": "Wolf",
+    "dateOfBirth": "1997-02-24",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "IWI",
+    "latestLocation": "ISLE OF WIGHT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/928371N",
+    "croNumber": "52476/59E",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Pakistan",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

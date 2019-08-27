@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V4796YE",
+    "firstName": "Fern",
+    "middleNames": "Teddy",
+    "lastName": "Erdman",
+    "dateOfBirth": "1976-07-15",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HOI",
+    "latestLocation": "HIGH DOWN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "98/894325C",
+    "croNumber": "35847/78C",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Greece",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

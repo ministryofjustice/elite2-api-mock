@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T1897PW",
+    "firstName": "Dillon",
+    "middleNames": "Marcie",
+    "lastName": "Homenick",
+    "dateOfBirth": "1958-05-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/685497U",
+    "croNumber": "64389/74X",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RPB",
+    "alertCodeDescription": "Risk to Public - Community",
+    "comment": null,
+    "dateCreated": "2011-10-24",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "KIANA",
+    "addedByLastName": "HARTMANN",
+    "expiredByFirstName": "BORIS",
+    "expiredByLastName": "DUBUQUE",
+    "dateExpires": "2018-05-30"
+  }
+]

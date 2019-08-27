@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P2548NX",
+    "firstName": "Damon",
+    "middleNames": "Socorro",
+    "lastName": "Feeney",
+    "dateOfBirth": "1952-02-11",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/687935F",
+    "croNumber": "67389/32N",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

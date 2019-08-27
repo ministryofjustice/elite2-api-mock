@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R4137FY",
+    "firstName": "Lucien",
+    "middleNames": "Santo",
+    "lastName": "Kerluke",
+    "dateOfBirth": "1955-02-05",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PVI",
+    "latestLocation": "PENTONVILLE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/279451X",
+    "croNumber": "94753/82X",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

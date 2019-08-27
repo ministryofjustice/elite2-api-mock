@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H9784EN",
+    "firstName": "Myron",
+    "middleNames": "Cherelle",
+    "lastName": "Pfannerstill",
+    "dateOfBirth": "1951-01-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "17/513624X",
+    "croNumber": "82761/94A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

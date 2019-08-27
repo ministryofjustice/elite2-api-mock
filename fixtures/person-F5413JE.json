@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F5413JE",
+    "firstName": "Mike",
+    "middleNames": "Rodrick",
+    "lastName": "Ruecker",
+    "dateOfBirth": "1955-08-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NMI",
+    "latestLocation": "NOTTINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/293746A",
+    "croNumber": "91342/68X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Scotland",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

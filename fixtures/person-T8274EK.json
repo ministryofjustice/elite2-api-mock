@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T8274EK",
+    "firstName": "Sun",
+    "middleNames": "Odis",
+    "lastName": "Bradtke",
+    "dateOfBirth": "1958-09-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/598764F",
+    "croNumber": "53748/94E",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Romania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

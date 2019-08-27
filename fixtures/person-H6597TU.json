@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H6597TU",
+    "firstName": "Diane",
+    "middleNames": "Jeniffer",
+    "lastName": "Hirthe",
+    "dateOfBirth": "1953-01-12",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "16/538469E",
+    "croNumber": "37451/52T",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N3412CH",
+    "firstName": "Bennie",
+    "middleNames": "Elvis",
+    "lastName": "Klocko",
+    "dateOfBirth": "1943-11-25",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HPI",
+    "latestLocation": "HIGHPOINT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/915683K",
+    "croNumber": "63941/37K",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Scotland",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

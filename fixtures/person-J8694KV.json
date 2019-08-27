@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8694KV",
+    "firstName": "Yen",
+    "middleNames": "Treena",
+    "lastName": "Kuhn",
+    "dateOfBirth": "1986-03-22",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LTI",
+    "latestLocation": "LITTLEHEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "32/183965J",
+    "croNumber": "89245/61X",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

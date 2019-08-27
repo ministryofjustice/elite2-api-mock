@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RLO",
+    "alertCodeDescription": "Low - Workplace Risk Assessment",
+    "dateCreated": "2009-10-01",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ALLEN",
+    "addedByLastName": "HYATT",
+    "expiredByFirstName": "NUBIA",
+    "expiredByLastName": "HOEGER",
+    "dateExpires": "2015-08-27",
+    "comment": null
+  }
+]

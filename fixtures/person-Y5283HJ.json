@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y5283HJ",
+    "firstName": "Ezra",
+    "middleNames": "Clinton",
+    "lastName": "Block",
+    "dateOfBirth": "1981-10-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LNI",
+    "latestLocation": "LOW NEWTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/269153R",
+    "croNumber": "76891/35J",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

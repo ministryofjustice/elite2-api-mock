@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2853VC",
+    "firstName": "Belia",
+    "middleNames": "Lura",
+    "lastName": "Schamberger",
+    "dateOfBirth": "1961-06-04",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/137429H",
+    "croNumber": "85174/17X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

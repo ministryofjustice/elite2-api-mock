@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5421TJ",
+    "firstName": "Ines",
+    "middleNames": "Latasha",
+    "lastName": "Kassulke",
+    "dateOfBirth": "1977-05-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/697832T",
+    "croNumber": "81947/31R",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Albania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

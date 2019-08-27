@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3195MC",
+    "firstName": "Maranda",
+    "middleNames": "Chere",
+    "lastName": "Anderson",
+    "dateOfBirth": "1964-03-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AYI",
+    "latestLocation": "AYLESBURY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/967381W",
+    "croNumber": "21694/37M",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Pakistan",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

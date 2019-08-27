@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y9264PK",
+    "firstName": "Mayola",
+    "middleNames": "Willene",
+    "lastName": "Cassin",
+    "dateOfBirth": "1994-12-12",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WMI",
+    "latestLocation": "WYMOTT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "56/359148N",
+    "croNumber": "26974/52H",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

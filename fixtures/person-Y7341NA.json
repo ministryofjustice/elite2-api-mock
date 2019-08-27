@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y7341NA",
+    "firstName": "Kimberley",
+    "middleNames": "Samuel",
+    "lastName": "Abshire",
+    "dateOfBirth": "1943-09-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "56/921365E",
+    "croNumber": "35247/65W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

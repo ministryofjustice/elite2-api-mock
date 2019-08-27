@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M3749TC",
+    "firstName": "Adena",
+    "middleNames": "Brigida",
+    "lastName": "Pollich",
+    "dateOfBirth": "1992-10-27",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BRI",
+    "latestLocation": "BURE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/412598C",
+    "croNumber": "31758/67X",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

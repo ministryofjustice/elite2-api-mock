@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P6732XY",
+    "firstName": "Frances",
+    "middleNames": "Daisey",
+    "lastName": "Boyer",
+    "dateOfBirth": "1974-08-03",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/948156R",
+    "croNumber": "57193/96T",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

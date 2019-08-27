@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U2184WY",
+    "firstName": "Melinda",
+    "middleNames": "Susie",
+    "lastName": "Murazik",
+    "dateOfBirth": "1960-07-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WNI",
+    "latestLocation": "WERRINGTON (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/698327M",
+    "croNumber": "38649/83M",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X1543CJ",
+    "firstName": "Bennie",
+    "middleNames": "Michaela",
+    "lastName": "Johnston",
+    "dateOfBirth": "1960-05-16",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LEI",
+    "latestLocation": "LEEDS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/261387Y",
+    "croNumber": "37259/46T",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "England",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

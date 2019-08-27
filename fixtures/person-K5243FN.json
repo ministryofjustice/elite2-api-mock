@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5243FN",
+    "firstName": "Garfield",
+    "middleNames": "Jody",
+    "lastName": "Luettgen",
+    "dateOfBirth": "1967-08-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ISI",
+    "latestLocation": "ISIS HMP/YOI",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "18/461287V",
+    "croNumber": "25479/24Y",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

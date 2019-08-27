@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C4538JU",
+    "firstName": "Janise",
+    "middleNames": "Willie",
+    "lastName": "Doyle",
+    "dateOfBirth": "1941-07-25",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/549271F",
+    "croNumber": "76891/43Y",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

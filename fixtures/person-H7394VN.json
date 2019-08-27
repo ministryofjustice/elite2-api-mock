@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H7394VN",
+    "firstName": "Kory",
+    "middleNames": "Erlinda",
+    "lastName": "Predovic",
+    "dateOfBirth": "1977-12-12",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/769834A",
+    "croNumber": "92618/93X",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

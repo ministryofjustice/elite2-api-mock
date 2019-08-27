@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8134TA",
+    "firstName": "Patrice",
+    "middleNames": "Gregory",
+    "lastName": "Waelchi",
+    "dateOfBirth": "1949-06-02",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BWI",
+    "latestLocation": "BERWYN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/895637K",
+    "croNumber": "15984/15C",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "England",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

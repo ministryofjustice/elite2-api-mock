@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A6543TX",
+    "firstName": "Phyliss",
+    "middleNames": "Ozie",
+    "lastName": "Zieme",
+    "dateOfBirth": "1954-12-15",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BRI",
+    "latestLocation": "BURE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/184365R",
+    "croNumber": "13296/46P",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Sweden",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

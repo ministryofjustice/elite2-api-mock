@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E7483JE",
+    "firstName": "Reginald",
+    "middleNames": "Gilbert",
+    "lastName": "Wintheiser",
+    "dateOfBirth": "1995-12-20",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "16/147526M",
+    "croNumber": "32659/85N",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Hungary",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

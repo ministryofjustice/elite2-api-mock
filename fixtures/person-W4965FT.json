@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4965FT",
+    "firstName": "Willard",
+    "middleNames": "Ashli",
+    "lastName": "Littel",
+    "dateOfBirth": "1966-03-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GPI",
+    "latestLocation": "GLEN PARVA (HMPYOI & RC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/832951F",
+    "croNumber": "83157/71U",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Hungary",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

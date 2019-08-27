@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T9582YK",
+    "firstName": "Orval",
+    "middleNames": "Guadalupe",
+    "lastName": "Hills",
+    "dateOfBirth": "1980-12-04",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GTI",
+    "latestLocation": "GARTREE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "75/368749C",
+    "croNumber": "81642/85R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

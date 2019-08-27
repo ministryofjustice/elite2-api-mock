@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C2849NE",
+    "firstName": "Hae",
+    "middleNames": "Odis",
+    "lastName": "Leffler",
+    "dateOfBirth": "1963-08-03",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HEI",
+    "latestLocation": "HMP HEWELL",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/472958X",
+    "croNumber": "68392/63M",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9814NA",
+    "firstName": "Tillie",
+    "middleNames": "Lorrie",
+    "lastName": "Stroman",
+    "dateOfBirth": "1986-04-17",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HVI",
+    "latestLocation": "HAVERIGG (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "68/251476N",
+    "croNumber": "21473/19T",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

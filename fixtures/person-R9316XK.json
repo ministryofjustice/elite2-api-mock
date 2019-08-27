@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R9316XK",
+    "firstName": "Alla",
+    "middleNames": "Jean",
+    "lastName": "Sawayn",
+    "dateOfBirth": "1945-09-15",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MHI",
+    "latestLocation": "MORTON HALL IMMIGRATION REMOVAL CENTRE",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/349712N",
+    "croNumber": "97863/26Y",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

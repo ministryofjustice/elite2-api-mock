@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M7382WM",
+    "firstName": "Yi",
+    "middleNames": "Nova",
+    "lastName": "Johnston",
+    "dateOfBirth": "1969-06-26",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CKI",
+    "latestLocation": "COOKHAM WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/416795W",
+    "croNumber": "67451/94W",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

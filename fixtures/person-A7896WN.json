@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A7896WN",
+    "firstName": "Mayra",
+    "middleNames": "Micah",
+    "lastName": "Kunde",
+    "dateOfBirth": "1967-12-24",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/378924Y",
+    "croNumber": "62973/93X",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

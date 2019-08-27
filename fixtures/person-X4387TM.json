@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X4387TM",
+    "firstName": "Eusebio",
+    "middleNames": "Kirby",
+    "lastName": "Bergstrom",
+    "dateOfBirth": "1967-12-26",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UPI",
+    "latestLocation": "PRESCOED (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/234869P",
+    "croNumber": "37958/35F",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

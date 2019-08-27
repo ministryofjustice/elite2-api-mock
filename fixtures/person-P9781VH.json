@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9781VH",
+    "firstName": "Wendi",
+    "middleNames": "Harris",
+    "lastName": "Bosco",
+    "dateOfBirth": "1945-12-27",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DWI",
+    "latestLocation": "DOWNVIEW (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/674893A",
+    "croNumber": "96724/98X",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Sweden",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

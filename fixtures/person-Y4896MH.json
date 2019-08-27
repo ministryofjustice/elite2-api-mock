@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y4896MH",
+    "firstName": "Lincoln",
+    "middleNames": "Neida",
+    "lastName": "Sipes",
+    "dateOfBirth": "1971-12-18",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DWI",
+    "latestLocation": "DOWNVIEW (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/526319X",
+    "croNumber": "56723/36R",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Hungary",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

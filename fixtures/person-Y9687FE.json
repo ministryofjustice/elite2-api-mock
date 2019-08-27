@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y9687FE",
+    "firstName": "Garth",
+    "middleNames": "Elliot",
+    "lastName": "Buckridge",
+    "dateOfBirth": "1995-10-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DNI",
+    "latestLocation": "DONCASTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/137629R",
+    "croNumber": "17394/36Y",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

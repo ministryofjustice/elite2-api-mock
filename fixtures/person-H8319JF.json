@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H8319JF",
+    "firstName": "Erin",
+    "middleNames": "Tyson",
+    "lastName": "Howell",
+    "dateOfBirth": "1980-09-11",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/729635P",
+    "croNumber": "89647/38N",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

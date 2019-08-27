@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8213PR",
+    "firstName": "Courtney",
+    "middleNames": "Demetrius",
+    "lastName": "Parisian",
+    "dateOfBirth": "1971-11-26",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/923164Y",
+    "croNumber": "78219/75R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

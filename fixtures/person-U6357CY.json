@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U6357CY",
+    "firstName": "Rolland",
+    "middleNames": "Cammie",
+    "lastName": "Rodriguez",
+    "dateOfBirth": "1957-02-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NLI",
+    "latestLocation": "NORTHUMBERLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "17/528316V",
+    "croNumber": "76321/86E",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

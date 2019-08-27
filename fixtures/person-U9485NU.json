@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U9485NU",
+    "firstName": "Darrick",
+    "middleNames": "Leanna",
+    "lastName": "Grimes",
+    "dateOfBirth": "1978-05-25",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PVI",
+    "latestLocation": "PENTONVILLE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/287641R",
+    "croNumber": "82314/17Y",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

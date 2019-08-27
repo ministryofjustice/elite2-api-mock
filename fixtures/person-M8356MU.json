@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8356MU",
+    "firstName": "Rod",
+    "middleNames": "Amber",
+    "lastName": "Brekke",
+    "dateOfBirth": "1998-05-05",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/896152R",
+    "croNumber": "62183/16T",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Scotland",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

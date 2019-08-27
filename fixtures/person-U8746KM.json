@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U8746KM",
+    "firstName": "Delma",
+    "middleNames": "Paulina",
+    "lastName": "Gerhold",
+    "dateOfBirth": "1969-08-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HLI",
+    "latestLocation": "HULL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/391568T",
+    "croNumber": "78615/24F",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

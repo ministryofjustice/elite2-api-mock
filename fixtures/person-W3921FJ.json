@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W3921FJ",
+    "firstName": "Heriberto",
+    "middleNames": "Yu",
+    "lastName": "Greenholt",
+    "dateOfBirth": "1997-02-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LFI",
+    "latestLocation": "LANCASTER FARMS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/498761U",
+    "croNumber": "67839/67J",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

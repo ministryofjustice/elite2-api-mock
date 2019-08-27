@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U6985UE",
+    "firstName": "Shayna",
+    "middleNames": "Tanner",
+    "lastName": "Weissnat",
+    "dateOfBirth": "1959-03-31",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LNI",
+    "latestLocation": "LOW NEWTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/382154W",
+    "croNumber": "17298/98N",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

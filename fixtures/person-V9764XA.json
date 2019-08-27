@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9764XA",
+    "firstName": "Thurman",
+    "middleNames": "Mervin",
+    "lastName": "Mertz",
+    "dateOfBirth": "1970-05-31",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "59/582964T",
+    "croNumber": "48253/47K",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

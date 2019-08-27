@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A3641EN",
+    "firstName": "Tonja",
+    "middleNames": "Ronnie",
+    "lastName": "Dooley",
+    "dateOfBirth": "1978-07-02",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SPI",
+    "latestLocation": "SPRING HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/629781U",
+    "croNumber": "14827/21X",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Pakistan",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

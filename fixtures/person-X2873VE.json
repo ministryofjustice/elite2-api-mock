@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2873VE",
+    "firstName": "Vern",
+    "middleNames": "Jarred",
+    "lastName": "Jerde",
+    "dateOfBirth": "1983-09-29",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FHI",
+    "latestLocation": "FOSTON HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/876419T",
+    "croNumber": "34562/91F",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Greece",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

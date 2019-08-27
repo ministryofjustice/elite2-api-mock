@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C3748XA",
+    "firstName": "Enoch",
+    "middleNames": "Marty",
+    "lastName": "Schiller",
+    "dateOfBirth": "1958-01-24",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/917265C",
+    "croNumber": "82375/12Y",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4527RH",
+    "firstName": "Roger",
+    "middleNames": "Loreta",
+    "lastName": "Wuckert",
+    "dateOfBirth": "1955-02-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MHI",
+    "latestLocation": "MORTON HALL IMMIGRATION REMOVAL CENTRE",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/748563M",
+    "croNumber": "79153/16V",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8794NY",
+    "firstName": "Lolita",
+    "middleNames": "Hollis",
+    "lastName": "Rempel",
+    "dateOfBirth": "1986-05-30",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WLI",
+    "latestLocation": "WAYLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/876315W",
+    "croNumber": "35217/27K",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

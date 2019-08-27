@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M6735VA",
+    "firstName": "Carlo",
+    "middleNames": "Kenisha",
+    "lastName": "Dicki",
+    "dateOfBirth": "1972-10-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DTI",
+    "latestLocation": "DEERBOLT (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/812347F",
+    "croNumber": "95712/23H",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Albania",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

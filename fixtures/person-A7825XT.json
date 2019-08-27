@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A7825XT",
+    "firstName": "Celia",
+    "middleNames": "Chris",
+    "lastName": "Prohaska",
+    "dateOfBirth": "1978-10-27",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/697354C",
+    "croNumber": "62147/92N",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

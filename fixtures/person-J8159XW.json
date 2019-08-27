@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8159XW",
+    "firstName": "Burt",
+    "middleNames": "Giuseppe",
+    "lastName": "Hauck",
+    "dateOfBirth": "1949-06-14",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/462381X",
+    "croNumber": "21968/89Y",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

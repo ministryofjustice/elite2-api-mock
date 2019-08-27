@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J2546MT",
+    "firstName": "Louanne",
+    "middleNames": "Scottie",
+    "lastName": "Wiza",
+    "dateOfBirth": "1973-11-27",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/683429R",
+    "croNumber": "75861/67M",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Australia",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

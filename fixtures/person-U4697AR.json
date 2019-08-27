@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U4697AR",
+    "firstName": "Freeman",
+    "middleNames": "Dollie",
+    "lastName": "Beahan",
+    "dateOfBirth": "1987-09-16",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HPI",
+    "latestLocation": "HIGHPOINT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/571364E",
+    "croNumber": "87241/37E",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

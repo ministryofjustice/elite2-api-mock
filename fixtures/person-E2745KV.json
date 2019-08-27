@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E2745KV",
+    "firstName": "Collin",
+    "middleNames": "Dana",
+    "lastName": "Schroeder",
+    "dateOfBirth": "1952-12-19",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DWI",
+    "latestLocation": "DOWNVIEW (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/679352M",
+    "croNumber": "65239/71X",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

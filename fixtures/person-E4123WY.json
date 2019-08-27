@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E4123WY",
+    "firstName": "Lissa",
+    "middleNames": "Dorthey",
+    "lastName": "Dickens",
+    "dateOfBirth": "1961-08-02",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WHI",
+    "latestLocation": "WOODHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/835724H",
+    "croNumber": "98621/59M",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

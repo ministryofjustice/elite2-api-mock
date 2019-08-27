@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W1236CW",
+    "firstName": "Antoinette",
+    "middleNames": "Haley",
+    "lastName": "Prosacco",
+    "dateOfBirth": "1979-09-29",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SPI",
+    "latestLocation": "SPRING HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/758314U",
+    "croNumber": "93281/92V",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

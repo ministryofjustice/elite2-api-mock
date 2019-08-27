@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J4185VM",
+    "firstName": "Maritza",
+    "middleNames": "Dodie",
+    "lastName": "Mueller",
+    "dateOfBirth": "1965-02-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UKI",
+    "latestLocation": "USK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/876942A",
+    "croNumber": "21943/81N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

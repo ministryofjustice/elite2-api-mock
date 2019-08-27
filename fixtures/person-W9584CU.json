@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W9584CU",
+    "firstName": "Consuelo",
+    "middleNames": "Jimmie",
+    "lastName": "Wilderman",
+    "dateOfBirth": "1959-09-14",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HPI",
+    "latestLocation": "HIGHPOINT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/189723N",
+    "croNumber": "25863/39Y",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Hungary",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

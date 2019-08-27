@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X1724XH",
+    "firstName": "Shandra",
+    "middleNames": "Grace",
+    "lastName": "Fisher",
+    "dateOfBirth": "1939-08-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/643278K",
+    "croNumber": "35941/91F",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

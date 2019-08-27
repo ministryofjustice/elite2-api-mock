@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H9625RU",
+    "firstName": "Eduardo",
+    "middleNames": "Gina",
+    "lastName": "Lindgren",
+    "dateOfBirth": "1970-05-25",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/913584A",
+    "croNumber": "49368/18C",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Hungary",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J4513JN",
+    "firstName": "Wallace",
+    "middleNames": "Ernie",
+    "lastName": "Emard",
+    "dateOfBirth": "1945-01-19",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/361759A",
+    "croNumber": "75468/27N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

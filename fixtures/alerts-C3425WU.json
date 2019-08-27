@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 3,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RPB",
+    "alertCodeDescription": "Risk to Public - Community",
+    "comment": null,
+    "dateCreated": "2013-02-24",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "LARONDA",
+    "addedByLastName": "WIEGAND",
+    "expiredByFirstName": "DIRK",
+    "expiredByLastName": "MERTZ",
+    "dateExpires": "2016-01-28"
+  },
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "comment": null,
+    "dateCreated": "2011-01-12",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "KRISTOFER",
+    "addedByLastName": "HANSEN",
+    "expiredByFirstName": "LURLINE",
+    "expiredByLastName": "CUMMINGS",
+    "dateExpires": "2015-11-16"
+  },
+  {
+    "alertId": 2,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XGANG",
+    "alertCodeDescription": "Gang Member",
+    "comment": null,
+    "dateCreated": "2011-11-25",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ANITA",
+    "addedByLastName": "GREENHOLT",
+    "expiredByFirstName": "KELLY",
+    "expiredByLastName": "MONAHAN",
+    "dateExpires": "2016-12-22"
+  }
+]

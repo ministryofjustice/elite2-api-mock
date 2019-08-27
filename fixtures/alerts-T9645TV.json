@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 3,
+    "alertType": "P",
+    "alertTypeDescription": "MAPPP Case",
+    "alertCode": "PC2",
+    "alertCodeDescription": "MAPPA Cat 2",
+    "comment": null,
+    "dateCreated": "2012-07-10",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "SEYMOUR",
+    "addedByLastName": "LOWE",
+    "expiredByFirstName": "LATONYA",
+    "expiredByLastName": "MONAHAN",
+    "dateExpires": "2016-10-26"
+  },
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "comment": null,
+    "dateCreated": "2010-11-17",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "KEENAN",
+    "addedByLastName": "NADER",
+    "expiredByFirstName": "CIERA",
+    "expiredByLastName": "SIPES",
+    "dateExpires": "2018-07-31"
+  },
+  {
+    "alertId": 2,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA",
+    "alertCodeDescription": "ACCT Open (HMPS)",
+    "comment": null,
+    "dateCreated": "2010-09-22",
+    "dateExpires": "2016-04-11",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "TIFANY",
+    "addedByLastName": "CUMMINGS",
+    "expiredByFirstName": "SAL",
+    "expiredByLastName": "ROMAGUERA"
+  }
+]

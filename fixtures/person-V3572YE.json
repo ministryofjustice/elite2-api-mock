@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V3572YE",
+    "firstName": "Casey",
+    "middleNames": "Angel",
+    "lastName": "Daugherty",
+    "dateOfBirth": "1950-08-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/984531H",
+    "croNumber": "69817/92U",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

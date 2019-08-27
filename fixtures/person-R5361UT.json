@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R5361UT",
+    "firstName": "Mariam",
+    "middleNames": "Deon",
+    "lastName": "Morar",
+    "dateOfBirth": "1961-12-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/135624J",
+    "croNumber": "21365/92T",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6149NC",
+    "firstName": "Eva",
+    "middleNames": "Talisha",
+    "lastName": "Huel",
+    "dateOfBirth": "1994-06-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BLI",
+    "latestLocation": "BRISTOL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/325869K",
+    "croNumber": "89514/74J",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Viet Nam",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

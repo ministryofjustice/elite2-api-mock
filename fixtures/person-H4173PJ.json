@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4173PJ",
+    "firstName": "Aisha",
+    "middleNames": "Freddy",
+    "lastName": "Stokes",
+    "dateOfBirth": "1971-04-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/368417N",
+    "croNumber": "19854/28A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Viet Nam",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

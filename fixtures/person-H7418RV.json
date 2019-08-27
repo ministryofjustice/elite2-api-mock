@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H7418RV",
+    "firstName": "Deedee",
+    "middleNames": "Ezequiel",
+    "lastName": "Romaguera",
+    "dateOfBirth": "1976-07-17",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FMI",
+    "latestLocation": "FELTHAM (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/396714U",
+    "croNumber": "63975/31Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Hungary",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

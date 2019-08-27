@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J6594FV",
+    "firstName": "Eleonore",
+    "middleNames": "Lynna",
+    "lastName": "Koelpin",
+    "dateOfBirth": "1946-02-14",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HCI",
+    "latestLocation": "HUNTERCOMBE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/379421R",
+    "croNumber": "12456/43W",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Australia",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

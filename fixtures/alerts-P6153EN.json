@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "comment": null,
+    "dateCreated": "2012-02-26",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "FILIBERTO",
+    "addedByLastName": "HAND",
+    "expiredByFirstName": "LACY",
+    "expiredByLastName": "CORMIER",
+    "dateExpires": "2015-04-05"
+  },
+  {
+    "alertId": 3,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA",
+    "alertCodeDescription": "ACCT Open (HMPS)",
+    "dateCreated": "2012-01-01",
+    "dateExpires": "2018-01-20",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "WARNER",
+    "addedByLastName": "CUMMINGS",
+    "expiredByFirstName": "GRANT",
+    "expiredByLastName": "CUMMERATA",
+    "comment": null
+  },
+  {
+    "alertId": 2,
+    "alertType": "P",
+    "alertTypeDescription": "MAPPP Case",
+    "alertCode": "P0",
+    "alertCodeDescription": "MAPPA Nominal",
+    "dateCreated": "2013-08-14",
+    "dateExpires": "2016-10-22",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "GORDON",
+    "addedByLastName": "KIRLIN",
+    "expiredByFirstName": "MARIANELA",
+    "expiredByLastName": "FADEL",
+    "comment": null
+  }
+]

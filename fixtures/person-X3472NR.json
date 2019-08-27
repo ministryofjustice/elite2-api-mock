@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3472NR",
+    "firstName": "Arnulfo",
+    "middleNames": "Fidel",
+    "lastName": "Ledner",
+    "dateOfBirth": "1987-01-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FHI",
+    "latestLocation": "FOSTON HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/257693X",
+    "croNumber": "67254/49P",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

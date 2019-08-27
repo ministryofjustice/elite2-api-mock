@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8794EJ",
+    "firstName": "Digna",
+    "middleNames": "Joann",
+    "lastName": "O'Reilly",
+    "dateOfBirth": "1993-06-09",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "IWI",
+    "latestLocation": "ISLE OF WIGHT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/816295F",
+    "croNumber": "25176/13U",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

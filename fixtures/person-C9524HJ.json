@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C9524HJ",
+    "firstName": "Claretta",
+    "middleNames": "Donny",
+    "lastName": "Leuschke",
+    "dateOfBirth": "1993-11-21",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/289546X",
+    "croNumber": "59718/61R",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

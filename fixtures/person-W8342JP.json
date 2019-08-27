@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8342JP",
+    "firstName": "Danette",
+    "middleNames": "Edgar",
+    "lastName": "Hoppe",
+    "dateOfBirth": "1964-03-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GMI",
+    "latestLocation": "GUYS MARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/429537C",
+    "croNumber": "31459/37N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

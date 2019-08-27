@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X5987CF",
+    "firstName": "Cedric",
+    "middleNames": "Jacinto",
+    "lastName": "Rodriguez",
+    "dateOfBirth": "1949-10-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WNI",
+    "latestLocation": "WERRINGTON (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/598273J",
+    "croNumber": "59648/15V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

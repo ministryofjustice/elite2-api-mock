@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V8465TF",
+    "firstName": "Quinn",
+    "middleNames": "Oliva",
+    "lastName": "Ledner",
+    "dateOfBirth": "1970-01-15",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/614257V",
+    "croNumber": "13498/56J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

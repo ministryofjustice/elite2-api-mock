@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P3826FC",
+    "firstName": "Jovita",
+    "middleNames": "Jeremy",
+    "lastName": "Keebler",
+    "dateOfBirth": "1941-10-18",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/273986F",
+    "croNumber": "87359/41T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Australia",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

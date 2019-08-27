@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X7416UE",
+    "firstName": "Ute",
+    "middleNames": "Rochelle",
+    "lastName": "Johnston",
+    "dateOfBirth": "1997-06-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MRI",
+    "latestLocation": "MANCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/345719P",
+    "croNumber": "82165/83U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Scotland",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

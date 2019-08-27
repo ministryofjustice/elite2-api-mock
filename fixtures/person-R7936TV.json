@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R7936TV",
+    "firstName": "Louie",
+    "middleNames": "Lamont",
+    "lastName": "Ebert",
+    "dateOfBirth": "1953-01-07",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ASI",
+    "latestLocation": "ASHFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/756429Y",
+    "croNumber": "96318/82V",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

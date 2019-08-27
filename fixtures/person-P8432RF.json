@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P8432RF",
+    "firstName": "Lauren",
+    "middleNames": "Clinton",
+    "lastName": "Rice",
+    "dateOfBirth": "1961-03-13",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/147629T",
+    "croNumber": "95812/27Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Viet Nam",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

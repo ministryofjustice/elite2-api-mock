@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U5621NU",
+    "firstName": "Reagan",
+    "middleNames": "Charmaine",
+    "lastName": "O'Conner",
+    "dateOfBirth": "1958-03-20",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ASI",
+    "latestLocation": "ASHFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/572941U",
+    "croNumber": "52689/97H",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3954UC",
+    "firstName": "Aron",
+    "middleNames": "Bertram",
+    "lastName": "Bins",
+    "dateOfBirth": "1968-11-10",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/621854F",
+    "croNumber": "12347/64M",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9647AT",
+    "firstName": "Erick",
+    "middleNames": "Reatha",
+    "lastName": "Hintz",
+    "dateOfBirth": "1983-12-31",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BNI",
+    "latestLocation": "BULLINGDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/437965F",
+    "croNumber": "71239/27J",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "England",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

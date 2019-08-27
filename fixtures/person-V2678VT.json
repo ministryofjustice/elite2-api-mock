@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V2678VT",
+    "firstName": "Deshawn",
+    "middleNames": "Johnie",
+    "lastName": "Bogisich",
+    "dateOfBirth": "1973-04-08",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/746519W",
+    "croNumber": "46528/26F",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

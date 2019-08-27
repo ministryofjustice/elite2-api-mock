@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N6514WF",
+    "firstName": "Terresa",
+    "middleNames": "Raeann",
+    "lastName": "Metz",
+    "dateOfBirth": "1951-08-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CWI",
+    "latestLocation": "CHANNINGS WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/895476R",
+    "croNumber": "28659/63C",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

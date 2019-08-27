@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2937MY",
+    "firstName": "Odell",
+    "middleNames": "Abraham",
+    "lastName": "Flatley",
+    "dateOfBirth": "1944-01-07",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TSI",
+    "latestLocation": "THAMESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/783912A",
+    "croNumber": "64812/12N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

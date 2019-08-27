@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8259TU",
+    "firstName": "German",
+    "middleNames": "Lou",
+    "lastName": "Kunde",
+    "dateOfBirth": "1986-01-18",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WCI",
+    "latestLocation": "WINCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/856937W",
+    "croNumber": "96451/49R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Poland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

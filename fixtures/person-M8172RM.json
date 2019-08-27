@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8172RM",
+    "firstName": "Amos",
+    "middleNames": "Elbert",
+    "lastName": "Jast",
+    "dateOfBirth": "1955-12-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LGI",
+    "latestLocation": "LOWDHAM GRANGE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/973165Y",
+    "croNumber": "72461/18K",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

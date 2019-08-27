@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P5839YJ",
+    "firstName": "Ted",
+    "middleNames": "Sunshine",
+    "lastName": "Terry",
+    "dateOfBirth": "1963-10-17",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/891467W",
+    "croNumber": "38954/19R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

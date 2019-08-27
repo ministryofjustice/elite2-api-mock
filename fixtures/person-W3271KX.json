@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W3271KX",
+    "firstName": "Elmer",
+    "middleNames": "Donnell",
+    "lastName": "Harber",
+    "dateOfBirth": "1996-08-31",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/684915J",
+    "croNumber": "17692/76A",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Greece",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R9486HY",
+    "firstName": "Chauncey",
+    "middleNames": "Chong",
+    "lastName": "Bergstrom",
+    "dateOfBirth": "1977-09-18",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SHI",
+    "latestLocation": "STOKE HEATH (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/947862T",
+    "croNumber": "64281/23Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

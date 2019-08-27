@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3429CP",
+    "firstName": "Nida",
+    "middleNames": "Stacie",
+    "lastName": "Nicolas",
+    "dateOfBirth": "1940-02-11",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/953476W",
+    "croNumber": "27854/82K",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

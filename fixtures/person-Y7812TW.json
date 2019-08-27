@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y7812TW",
+    "firstName": "Agustin",
+    "middleNames": "Deangelo",
+    "lastName": "Oberbrunner",
+    "dateOfBirth": "1989-01-16",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ASI",
+    "latestLocation": "ASHFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/169325E",
+    "croNumber": "23756/14N",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Greece",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H2815UN",
+    "firstName": "Bernie",
+    "middleNames": "Naoma",
+    "lastName": "Douglas",
+    "dateOfBirth": "1998-07-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/132698V",
+    "croNumber": "64758/41N",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

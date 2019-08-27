@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4975AU",
+    "firstName": "Zack",
+    "middleNames": "Lane",
+    "lastName": "Franecki",
+    "dateOfBirth": "1980-05-04",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LTI",
+    "latestLocation": "LITTLEHEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "68/462985Y",
+    "croNumber": "72439/68K",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

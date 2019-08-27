@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N8364JC",
+    "firstName": "Chester",
+    "middleNames": "Elissa",
+    "lastName": "Hermiston",
+    "dateOfBirth": "1970-09-24",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DNI",
+    "latestLocation": "DONCASTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/647285W",
+    "croNumber": "96372/13A",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

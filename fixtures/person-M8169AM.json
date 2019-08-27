@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8169AM",
+    "firstName": "Delma",
+    "middleNames": "Jeffry",
+    "lastName": "Carroll",
+    "dateOfBirth": "1961-05-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/417365F",
+    "croNumber": "58719/23X",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Italy",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

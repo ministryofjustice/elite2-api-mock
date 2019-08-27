@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V3712NW",
+    "firstName": "Adrianna",
+    "middleNames": "Denis",
+    "lastName": "Lesch",
+    "dateOfBirth": "1956-06-15",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PVI",
+    "latestLocation": "PENTONVILLE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/928613F",
+    "croNumber": "36174/21P",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

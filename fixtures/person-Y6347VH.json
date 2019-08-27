@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y6347VH",
+    "firstName": "Shakita",
+    "middleNames": "Jeannette",
+    "lastName": "Okuneva",
+    "dateOfBirth": "1970-12-25",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HOI",
+    "latestLocation": "HIGH DOWN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/156439W",
+    "croNumber": "41958/74W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Poland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

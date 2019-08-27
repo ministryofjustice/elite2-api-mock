@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F7594AU",
+    "firstName": "Jacquelyn",
+    "middleNames": "Dylan",
+    "lastName": "Gleason",
+    "dateOfBirth": "1955-08-09",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HVI",
+    "latestLocation": "HAVERIGG (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "75/362549W",
+    "croNumber": "59873/27H",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

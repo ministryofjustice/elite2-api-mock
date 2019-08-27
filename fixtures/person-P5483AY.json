@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P5483AY",
+    "firstName": "Gertrud",
+    "middleNames": "Katheryn",
+    "lastName": "Steuber",
+    "dateOfBirth": "1970-03-07",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WHI",
+    "latestLocation": "WOODHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/659312Y",
+    "croNumber": "56871/85P",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Poland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

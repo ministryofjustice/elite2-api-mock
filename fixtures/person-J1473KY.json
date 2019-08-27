@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J1473KY",
+    "firstName": "Johnetta",
+    "middleNames": "Wyatt",
+    "lastName": "Halvorson",
+    "dateOfBirth": "1944-10-25",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/291845M",
+    "croNumber": "95127/32J",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

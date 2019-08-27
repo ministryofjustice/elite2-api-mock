@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4578MJ",
+    "firstName": "Jody",
+    "middleNames": "Aubrey",
+    "lastName": "Leuschke",
+    "dateOfBirth": "1982-10-03",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DNI",
+    "latestLocation": "DONCASTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/197452U",
+    "croNumber": "71456/46Y",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H2634EX",
+    "firstName": "Dotty",
+    "middleNames": "Yer",
+    "lastName": "Emmerich",
+    "dateOfBirth": "1987-10-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HEI",
+    "latestLocation": "HMP HEWELL",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/692513T",
+    "croNumber": "36479/89C",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

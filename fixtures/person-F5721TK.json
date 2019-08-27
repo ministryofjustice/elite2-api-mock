@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F5721TK",
+    "firstName": "Bernie",
+    "middleNames": "Deann",
+    "lastName": "Purdy",
+    "dateOfBirth": "1980-06-01",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RSI",
+    "latestLocation": "RISLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/437591J",
+    "croNumber": "32948/41E",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

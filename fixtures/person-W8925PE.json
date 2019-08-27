@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8925PE",
+    "firstName": "Stephen",
+    "middleNames": "Randi",
+    "lastName": "Carroll",
+    "dateOfBirth": "1986-08-04",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NLI",
+    "latestLocation": "NORTHUMBERLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/379184K",
+    "croNumber": "13589/32M",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

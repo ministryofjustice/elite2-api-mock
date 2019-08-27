@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J3148MA",
+    "firstName": "Robbie",
+    "middleNames": "Damion",
+    "lastName": "Turcotte",
+    "dateOfBirth": "1964-09-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PDI",
+    "latestLocation": "PORTLAND (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/721653P",
+    "croNumber": "84963/93T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

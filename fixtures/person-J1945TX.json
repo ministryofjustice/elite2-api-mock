@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J1945TX",
+    "firstName": "Micah",
+    "middleNames": "Jonah",
+    "lastName": "Konopelski",
+    "dateOfBirth": "1954-10-06",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BAI",
+    "latestLocation": "BELMARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/386459H",
+    "croNumber": "36749/36H",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

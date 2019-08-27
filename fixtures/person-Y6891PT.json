@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y6891PT",
+    "firstName": "Willette",
+    "middleNames": "Jannie",
+    "lastName": "Reinger",
+    "dateOfBirth": "1965-10-25",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "27/495361P",
+    "croNumber": "37429/79Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

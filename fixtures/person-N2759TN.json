@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N2759TN",
+    "firstName": "Marget",
+    "middleNames": "Maile",
+    "lastName": "Kohler",
+    "dateOfBirth": "1972-03-24",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UKI",
+    "latestLocation": "USK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/617293M",
+    "croNumber": "53861/23J",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Sweden",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

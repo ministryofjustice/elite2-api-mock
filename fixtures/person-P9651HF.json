@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9651HF",
+    "firstName": "Colby",
+    "middleNames": "Cherryl",
+    "lastName": "Sawayn",
+    "dateOfBirth": "1986-01-01",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DGI",
+    "latestLocation": "DOVEGATE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "18/417286C",
+    "croNumber": "19375/25U",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Poland",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

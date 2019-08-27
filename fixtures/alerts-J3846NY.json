@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "dateCreated": "2010-09-03",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ARNOLD",
+    "addedByLastName": "WILKINSON",
+    "expiredByFirstName": "DESMOND",
+    "expiredByLastName": "GOTTLIEB",
+    "dateExpires": "2018-06-05",
+    "comment": null
+  },
+  {
+    "alertId": 2,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RPB",
+    "alertCodeDescription": "Risk to Public - Community",
+    "comment": null,
+    "dateCreated": "2012-04-15",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "CLINT",
+    "addedByLastName": "PADBERG",
+    "expiredByFirstName": "TOD",
+    "expiredByLastName": "LINDGREN",
+    "dateExpires": "2017-11-25"
+  },
+  {
+    "alertId": 3,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XNR",
+    "alertCodeDescription": "Not For Release",
+    "comment": null,
+    "dateCreated": "2012-01-03",
+    "dateExpires": "2017-08-14",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "NORRIS",
+    "addedByLastName": "LAKIN",
+    "expiredByFirstName": "LUIGI",
+    "expiredByLastName": "DICKENS"
+  }
+]

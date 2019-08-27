@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9238VJ",
+    "firstName": "Dennis",
+    "middleNames": "Jinny",
+    "lastName": "Purdy",
+    "dateOfBirth": "1952-11-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NLI",
+    "latestLocation": "NORTHUMBERLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/762435M",
+    "croNumber": "76284/47R",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

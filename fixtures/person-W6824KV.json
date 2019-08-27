@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W6824KV",
+    "firstName": "Elroy",
+    "middleNames": "Pablo",
+    "lastName": "Williamson",
+    "dateOfBirth": "1978-12-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LWI",
+    "latestLocation": "LEWES (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/241578Y",
+    "croNumber": "43951/35A",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

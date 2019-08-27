@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N9482HN",
+    "firstName": "Leonel",
+    "middleNames": "Chong",
+    "lastName": "Kilback",
+    "dateOfBirth": "1975-11-04",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KTI",
+    "latestLocation": "KENNET (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/396157W",
+    "croNumber": "17359/75U",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

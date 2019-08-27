@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H3769VF",
+    "firstName": "Samantha",
+    "middleNames": "Delmer",
+    "lastName": "Walsh",
+    "dateOfBirth": "1955-06-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HBI",
+    "latestLocation": "HOLLESLEY BAY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/395468U",
+    "croNumber": "25419/34R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Poland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

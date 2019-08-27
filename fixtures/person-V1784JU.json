@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V1784JU",
+    "firstName": "Eulah",
+    "middleNames": "Bernardina",
+    "lastName": "Schulist",
+    "dateOfBirth": "1995-11-06",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SUI",
+    "latestLocation": "SUDBURY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/837961V",
+    "croNumber": "96123/35V",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

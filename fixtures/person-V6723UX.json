@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V6723UX",
+    "firstName": "Damon",
+    "middleNames": "Miguel",
+    "lastName": "Keeling",
+    "dateOfBirth": "1988-03-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/859362E",
+    "croNumber": "67231/19H",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

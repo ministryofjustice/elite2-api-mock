@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A7359CJ",
+    "firstName": "Vernon",
+    "middleNames": "Jules",
+    "lastName": "Predovic",
+    "dateOfBirth": "1970-01-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MRI",
+    "latestLocation": "MANCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/278619K",
+    "croNumber": "14896/24C",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

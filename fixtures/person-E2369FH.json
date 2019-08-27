@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E2369FH",
+    "firstName": "Brenton",
+    "middleNames": "Marvin",
+    "lastName": "Steuber",
+    "dateOfBirth": "1942-05-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/638275J",
+    "croNumber": "74261/15V",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

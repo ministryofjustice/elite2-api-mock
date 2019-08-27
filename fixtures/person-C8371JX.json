@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C8371JX",
+    "firstName": "Cira",
+    "middleNames": "Moises",
+    "lastName": "Stamm",
+    "dateOfBirth": "1968-07-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GNI",
+    "latestLocation": "GRENDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/591237N",
+    "croNumber": "73984/82Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Hungary",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

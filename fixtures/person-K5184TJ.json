@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5184TJ",
+    "firstName": "Rufus",
+    "middleNames": "Blair",
+    "lastName": "Green",
+    "dateOfBirth": "1981-05-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "72/247893T",
+    "croNumber": "19635/79A",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

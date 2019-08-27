@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U4573AM",
+    "firstName": "David",
+    "middleNames": "Torri",
+    "lastName": "Veum",
+    "dateOfBirth": "1946-06-02",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LWI",
+    "latestLocation": "LEWES (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/675823X",
+    "croNumber": "94215/15K",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

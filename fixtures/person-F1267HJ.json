@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F1267HJ",
+    "firstName": "Sid",
+    "middleNames": "Wesley",
+    "lastName": "Collins",
+    "dateOfBirth": "1987-08-03",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/872154E",
+    "croNumber": "13658/86E",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

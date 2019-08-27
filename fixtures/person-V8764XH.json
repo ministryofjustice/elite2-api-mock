@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V8764XH",
+    "firstName": "Giuseppe",
+    "middleNames": "Eugene",
+    "lastName": "Harvey",
+    "dateOfBirth": "1968-08-16",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LWI",
+    "latestLocation": "LEWES (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/341982N",
+    "croNumber": "85794/27M",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

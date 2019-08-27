@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6341TW",
+    "firstName": "Olympia",
+    "middleNames": "Candy",
+    "lastName": "Dibbert",
+    "dateOfBirth": "1978-05-04",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DAI",
+    "latestLocation": "DARTMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/436527N",
+    "croNumber": "75189/89X",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

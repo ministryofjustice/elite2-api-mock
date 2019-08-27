@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5376WC",
+    "firstName": "Irving",
+    "middleNames": "Man",
+    "lastName": "Jacobi",
+    "dateOfBirth": "1972-02-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CLI",
+    "latestLocation": "COLDINGLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/852674X",
+    "croNumber": "42957/38A",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

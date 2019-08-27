@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C3892FA",
+    "firstName": "John",
+    "middleNames": "Ali",
+    "lastName": "Grimes",
+    "dateOfBirth": "1981-03-07",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/421568X",
+    "croNumber": "94168/98R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Romania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X4379MA",
+    "firstName": "Hortensia",
+    "middleNames": "Clinton",
+    "lastName": "Kling",
+    "dateOfBirth": "1939-10-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/571326P",
+    "croNumber": "12873/95H",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Albania",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

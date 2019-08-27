@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6138FJ",
+    "firstName": "Chelsie",
+    "middleNames": "Hailey",
+    "lastName": "Boyle",
+    "dateOfBirth": "1979-11-08",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MRI",
+    "latestLocation": "MANCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/987543R",
+    "croNumber": "98217/36C",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5836FT",
+    "firstName": "Angelic",
+    "middleNames": "George",
+    "lastName": "Corwin",
+    "dateOfBirth": "1961-12-30",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EXI",
+    "latestLocation": "EXETER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/481375A",
+    "croNumber": "73518/93U",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

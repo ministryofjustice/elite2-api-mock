@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F5914KP",
+    "firstName": "Sage",
+    "middleNames": "Winston",
+    "lastName": "Goldner",
+    "dateOfBirth": "1956-07-18",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AYI",
+    "latestLocation": "AYLESBURY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/276491F",
+    "croNumber": "45293/98P",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

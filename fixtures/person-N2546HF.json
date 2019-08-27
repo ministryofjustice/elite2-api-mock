@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N2546HF",
+    "firstName": "Dalia",
+    "middleNames": "Jamie",
+    "lastName": "Gislason",
+    "dateOfBirth": "1967-06-26",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WWI",
+    "latestLocation": "WANDSWORTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/943285N",
+    "croNumber": "46279/43F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

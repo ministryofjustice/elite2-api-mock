@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4859RP",
+    "firstName": "Ismael",
+    "middleNames": "Deshawn",
+    "lastName": "Kihn",
+    "dateOfBirth": "1969-04-24",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GMI",
+    "latestLocation": "GUYS MARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/782156M",
+    "croNumber": "28671/38Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Italy",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

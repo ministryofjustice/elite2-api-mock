@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T5316YA",
+    "firstName": "Nerissa",
+    "middleNames": "Trevor",
+    "lastName": "Daugherty",
+    "dateOfBirth": "1995-11-22",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HBI",
+    "latestLocation": "HOLLESLEY BAY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/361854N",
+    "croNumber": "75482/79Y",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P4867AN",
+    "firstName": "Darell",
+    "middleNames": "Regine",
+    "lastName": "Ernser",
+    "dateOfBirth": "1963-02-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CWI",
+    "latestLocation": "CHANNINGS WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/152649N",
+    "croNumber": "89315/24J",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

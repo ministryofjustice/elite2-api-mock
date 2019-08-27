@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C1436UJ",
+    "firstName": "Kathline",
+    "middleNames": "Katheleen",
+    "lastName": "Hermiston",
+    "dateOfBirth": "1964-05-01",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AYI",
+    "latestLocation": "AYLESBURY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/485927N",
+    "croNumber": "39742/37R",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Australia",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

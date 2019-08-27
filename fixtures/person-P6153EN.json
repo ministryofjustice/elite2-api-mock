@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P6153EN",
+    "firstName": "Art",
+    "middleNames": "Herschel",
+    "lastName": "Nolan",
+    "dateOfBirth": "1974-09-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DNI",
+    "latestLocation": "DONCASTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "52/728643R",
+    "croNumber": "98526/32P",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Albania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

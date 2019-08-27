@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1832KT",
+    "firstName": "Lupe",
+    "middleNames": "Shiela",
+    "lastName": "Wisoky",
+    "dateOfBirth": "1954-08-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GTI",
+    "latestLocation": "GARTREE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/721864C",
+    "croNumber": "65913/95A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X4178KC",
+    "firstName": "Mary",
+    "middleNames": "Nicky",
+    "lastName": "Ziemann",
+    "dateOfBirth": "1957-02-03",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PRI",
+    "latestLocation": "PARC (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/521763X",
+    "croNumber": "64579/43H",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

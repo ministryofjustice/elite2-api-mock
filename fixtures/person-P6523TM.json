@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P6523TM",
+    "firstName": "Cyndy",
+    "middleNames": "Wilburn",
+    "lastName": "Conn",
+    "dateOfBirth": "1970-06-23",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/628159M",
+    "croNumber": "82195/17H",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

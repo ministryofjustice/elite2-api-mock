@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U2639XA",
+    "firstName": "Rico",
+    "middleNames": "April",
+    "lastName": "Gibson",
+    "dateOfBirth": "1993-01-18",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/371845A",
+    "croNumber": "61853/75A",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

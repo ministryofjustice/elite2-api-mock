@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U3216EK",
+    "firstName": "Jerome",
+    "middleNames": "Joey",
+    "lastName": "Rolfson",
+    "dateOfBirth": "1986-01-23",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/529148K",
+    "croNumber": "12697/58K",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Scotland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U2841CF",
+    "firstName": "Alethia",
+    "middleNames": "Allan",
+    "lastName": "Blick",
+    "dateOfBirth": "1985-06-24",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/726198K",
+    "croNumber": "47128/52H",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

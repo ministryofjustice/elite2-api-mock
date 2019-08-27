@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9543HC",
+    "firstName": "Nisha",
+    "middleNames": "Omar",
+    "lastName": "Conroy",
+    "dateOfBirth": "1943-10-07",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BNI",
+    "latestLocation": "BULLINGDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/316854E",
+    "croNumber": "24816/16J",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

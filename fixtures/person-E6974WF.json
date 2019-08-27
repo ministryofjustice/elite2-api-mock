@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E6974WF",
+    "firstName": "Maryetta",
+    "middleNames": "Clifton",
+    "lastName": "Windler",
+    "dateOfBirth": "1948-10-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TSI",
+    "latestLocation": "THAMESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "82/459186J",
+    "croNumber": "93418/81E",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "England",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R5437AR",
+    "firstName": "Mildred",
+    "middleNames": "Roy",
+    "lastName": "Jacobi",
+    "dateOfBirth": "1945-02-17",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AGI",
+    "latestLocation": "ASKHAM GRANGE (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/456298X",
+    "croNumber": "25798/72H",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Hungary",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J8649EU",
+    "firstName": "Calandra",
+    "middleNames": "Marisha",
+    "lastName": "Kshlerin",
+    "dateOfBirth": "1983-03-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PNI",
+    "latestLocation": "PRESTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/942876X",
+    "croNumber": "52746/35V",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

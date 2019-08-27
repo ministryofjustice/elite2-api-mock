@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H9718NF",
+    "firstName": "Janina",
+    "middleNames": "Marty",
+    "lastName": "Daniel",
+    "dateOfBirth": "1972-06-12",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KTI",
+    "latestLocation": "KENNET (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/598264W",
+    "croNumber": "97865/63W",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

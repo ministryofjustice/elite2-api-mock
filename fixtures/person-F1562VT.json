@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F1562VT",
+    "firstName": "Georgie",
+    "middleNames": "Contessa",
+    "lastName": "Ernser",
+    "dateOfBirth": "1965-07-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/564231J",
+    "croNumber": "97235/26C",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

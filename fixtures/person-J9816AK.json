@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J9816AK",
+    "firstName": "Marcellus",
+    "middleNames": "Karisa",
+    "lastName": "Dibbert",
+    "dateOfBirth": "1968-07-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HEI",
+    "latestLocation": "HMP HEWELL",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/612543N",
+    "croNumber": "96382/79P",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

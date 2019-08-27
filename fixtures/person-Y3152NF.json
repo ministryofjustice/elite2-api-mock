@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y3152NF",
+    "firstName": "Royce",
+    "middleNames": "Eloy",
+    "lastName": "Cassin",
+    "dateOfBirth": "1949-05-08",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/385124K",
+    "croNumber": "74593/59T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

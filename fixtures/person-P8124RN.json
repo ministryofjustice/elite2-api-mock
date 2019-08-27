@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P8124RN",
+    "firstName": "Tyler",
+    "middleNames": "Audie",
+    "lastName": "Hudson",
+    "dateOfBirth": "1993-03-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/147689A",
+    "croNumber": "68794/96A",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K7219HF",
+    "firstName": "Aleida",
+    "middleNames": "Joi",
+    "lastName": "Fritsch",
+    "dateOfBirth": "1974-11-05",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/569784W",
+    "croNumber": "27569/19T",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

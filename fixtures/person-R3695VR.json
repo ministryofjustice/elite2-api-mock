@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R3695VR",
+    "firstName": "Janita",
+    "middleNames": "Refugio",
+    "lastName": "Carter",
+    "dateOfBirth": "1956-09-14",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FHI",
+    "latestLocation": "FOSTON HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "42/754392T",
+    "croNumber": "97231/91J",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

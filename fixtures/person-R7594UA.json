@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R7594UA",
+    "firstName": "Madeline",
+    "middleNames": "Zachariah",
+    "lastName": "Greenfelder",
+    "dateOfBirth": "1945-10-01",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HMI",
+    "latestLocation": "HUMBER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/468173Y",
+    "croNumber": "79543/49P",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Albania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

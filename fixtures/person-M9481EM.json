@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M9481EM",
+    "firstName": "Jackson",
+    "middleNames": "Bridgette",
+    "lastName": "Padberg",
+    "dateOfBirth": "1944-08-08",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GHI",
+    "latestLocation": "GARTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "63/425689W",
+    "croNumber": "52367/28X",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Pakistan",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

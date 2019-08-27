@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R5719TC",
+    "firstName": "Abdul",
+    "middleNames": "Eugena",
+    "lastName": "Langosh",
+    "dateOfBirth": "1947-09-23",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/162495M",
+    "croNumber": "35941/53P",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6492AC",
+    "firstName": "Joslyn",
+    "middleNames": "Deanne",
+    "lastName": "O'Connell",
+    "dateOfBirth": "1943-01-29",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/329517V",
+    "croNumber": "74389/42K",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

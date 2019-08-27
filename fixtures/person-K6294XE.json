@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6294XE",
+    "firstName": "Jed",
+    "middleNames": "Giovanna",
+    "lastName": "Quitzon",
+    "dateOfBirth": "1988-10-12",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LFI",
+    "latestLocation": "LANCASTER FARMS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "16/961753K",
+    "croNumber": "37629/67U",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

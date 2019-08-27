@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4713KW",
+    "firstName": "Minta",
+    "middleNames": "Leila",
+    "lastName": "Altenwerth",
+    "dateOfBirth": "1967-11-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WDI",
+    "latestLocation": "WAKEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/456329X",
+    "croNumber": "45938/19V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

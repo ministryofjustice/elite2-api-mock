@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6372JY",
+    "firstName": "Delores",
+    "middleNames": "Val",
+    "lastName": "Keebler",
+    "dateOfBirth": "1966-09-12",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TCI",
+    "latestLocation": "THORN CROSS (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "28/259863X",
+    "croNumber": "46298/71R",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

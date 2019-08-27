@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W3468HX",
+    "firstName": "Ines",
+    "middleNames": "Anna",
+    "lastName": "Fritsch",
+    "dateOfBirth": "1972-05-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MTI",
+    "latestLocation": "THE MOUNT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/472153K",
+    "croNumber": "82659/95C",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Greece",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

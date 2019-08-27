@@ -81,7 +81,7 @@ router.get('/:bookingId/alerts', (req, res) => {
   const { bookingId } = req.params
   res.send(
     alerts.filter(alert => {
-      return parseInt(bookingId) === alert.bookingId
+      return parseInt(bookingId, 10) === alert.bookingId
     })
   )
 })
@@ -92,6 +92,18 @@ router.get('/offenderNo/:imageId/image/data', (req, res) => {
 
   const src = fs.createReadStream(`routes/images/${id}.png`)
   src.pipe(res)
+})
+
+router.get('/offenderNo/:offenderNo/alerts', (req, res) => {
+  const { offenderNo } = req.params
+  fs.readFile(`./fixtures/alerts-${offenderNo}.json`, 'utf-8', (err, template) => {
+    if (err) {
+      throw err
+    }
+
+    res.setHeader('Content-Type', 'application/json')
+    res.send(template)
+  })
 })
 
 module.exports = router

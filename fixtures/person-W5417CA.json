@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W5417CA",
+    "firstName": "Adolfo",
+    "middleNames": "Franklyn",
+    "lastName": "Effertz",
+    "dateOfBirth": "1967-11-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DAI",
+    "latestLocation": "DARTMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/825139Y",
+    "croNumber": "91478/96P",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A9452VU",
+    "firstName": "Agueda",
+    "middleNames": "Billi",
+    "lastName": "Beier",
+    "dateOfBirth": "1943-12-04",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/428916E",
+    "croNumber": "83165/23A",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

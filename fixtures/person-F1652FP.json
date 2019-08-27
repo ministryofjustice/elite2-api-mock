@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F1652FP",
+    "firstName": "Hershel",
+    "middleNames": "Kayce",
+    "lastName": "O'Kon",
+    "dateOfBirth": "1954-05-07",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "56/265947X",
+    "croNumber": "83796/23H",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

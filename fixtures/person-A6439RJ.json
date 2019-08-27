@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A6439RJ",
+    "firstName": "Gerardo",
+    "middleNames": "Jayson",
+    "lastName": "Beer",
+    "dateOfBirth": "1959-11-23",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/923876X",
+    "croNumber": "92341/63P",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

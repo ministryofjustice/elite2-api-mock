@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N7182TR",
+    "firstName": "Wesley",
+    "middleNames": "Amos",
+    "lastName": "Bruen",
+    "dateOfBirth": "1986-04-20",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BFI",
+    "latestLocation": "BEDFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/348751T",
+    "croNumber": "12739/87T",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

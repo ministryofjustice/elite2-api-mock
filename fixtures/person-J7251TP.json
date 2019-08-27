@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J7251TP",
+    "firstName": "Jack",
+    "middleNames": "Wilford",
+    "lastName": "Nikolaus",
+    "dateOfBirth": "1946-04-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DWI",
+    "latestLocation": "DOWNVIEW (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "72/496371Y",
+    "croNumber": "91587/52V",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Hungary",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

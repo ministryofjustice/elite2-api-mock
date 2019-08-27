@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9743HE",
+    "firstName": "Delena",
+    "middleNames": "Israel",
+    "lastName": "Mayer",
+    "dateOfBirth": "1950-05-28",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WNI",
+    "latestLocation": "WERRINGTON (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/587413J",
+    "croNumber": "59324/71E",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Scotland",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

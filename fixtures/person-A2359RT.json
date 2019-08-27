@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2359RT",
+    "firstName": "Dixie",
+    "middleNames": "Johnie",
+    "lastName": "Quigley",
+    "dateOfBirth": "1971-01-11",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EYI",
+    "latestLocation": "ELMLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "29/712689V",
+    "croNumber": "13675/57V",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

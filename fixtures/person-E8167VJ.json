@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E8167VJ",
+    "firstName": "Chang",
+    "middleNames": "Merlin",
+    "lastName": "Dibbert",
+    "dateOfBirth": "1992-08-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "41/638475X",
+    "croNumber": "35617/26Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Viet Nam",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

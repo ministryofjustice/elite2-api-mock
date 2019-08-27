@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A1247MN",
+    "firstName": "Donald",
+    "middleNames": "Meghann",
+    "lastName": "Gorczany",
+    "dateOfBirth": "1979-04-19",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MHI",
+    "latestLocation": "MORTON HALL IMMIGRATION REMOVAL CENTRE",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/214596J",
+    "croNumber": "78643/81F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

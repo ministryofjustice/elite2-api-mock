@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H8453AW",
+    "firstName": "Lamont",
+    "middleNames": "Delia",
+    "lastName": "Upton",
+    "dateOfBirth": "1972-05-20",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CWI",
+    "latestLocation": "CHANNINGS WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "48/319257F",
+    "croNumber": "27983/35A",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

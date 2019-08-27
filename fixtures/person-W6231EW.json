@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W6231EW",
+    "firstName": "Jerald",
+    "middleNames": "Eloy",
+    "lastName": "Streich",
+    "dateOfBirth": "1998-11-03",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/642831P",
+    "croNumber": "36958/17R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Greece",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

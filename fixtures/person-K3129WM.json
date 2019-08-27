@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K3129WM",
+    "firstName": "Karri",
+    "middleNames": "Lucio",
+    "lastName": "Conroy",
+    "dateOfBirth": "1996-08-17",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PNI",
+    "latestLocation": "PRESTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/182456J",
+    "croNumber": "31679/85C",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

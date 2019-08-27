@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N6537EA",
+    "firstName": "Sherwood",
+    "middleNames": "Yong",
+    "lastName": "Yundt",
+    "dateOfBirth": "1977-12-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NWI",
+    "latestLocation": "NORWICH (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/493215E",
+    "croNumber": "69183/84W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

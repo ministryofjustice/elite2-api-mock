@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A9438EN",
+    "firstName": "Marc",
+    "middleNames": "Elroy",
+    "lastName": "Sawayn",
+    "dateOfBirth": "1993-11-19",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RHI",
+    "latestLocation": "RYE HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/932875U",
+    "croNumber": "83427/43Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

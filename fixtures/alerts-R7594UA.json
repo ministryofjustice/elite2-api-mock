@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 3,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XNR",
+    "alertCodeDescription": "Not For Release",
+    "comment": null,
+    "dateCreated": "2011-09-16",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ALETHIA",
+    "addedByLastName": "LEHNER",
+    "expiredByFirstName": "DAVE",
+    "expiredByLastName": "NICOLAS",
+    "dateExpires": "2017-06-06"
+  },
+  {
+    "alertId": 2,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XGANG",
+    "alertCodeDescription": "Gang Member",
+    "comment": null,
+    "dateCreated": "2013-01-10",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "MILFORD",
+    "addedByLastName": "MARKS",
+    "expiredByFirstName": "ALAN",
+    "expiredByLastName": "JOHNSON",
+    "dateExpires": "2017-03-26"
+  },
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "HPI",
+    "alertCodeDescription": "High Public Interest",
+    "comment": null,
+    "dateCreated": "2010-01-08",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "LESIA",
+    "addedByLastName": "O'CONNER",
+    "expiredByFirstName": "GALINA",
+    "expiredByLastName": "STEUBER",
+    "dateExpires": "2018-05-04"
+  }
+]

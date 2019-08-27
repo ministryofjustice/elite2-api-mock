@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W2359EN",
+    "firstName": "Aaron",
+    "middleNames": "Shelby",
+    "lastName": "Cruickshank",
+    "dateOfBirth": "1959-01-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LYI",
+    "latestLocation": "LEYHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/986143W",
+    "croNumber": "46857/19M",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

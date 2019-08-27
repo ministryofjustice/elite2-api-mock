@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X4798EK",
+    "firstName": "Erasmo",
+    "middleNames": "Taneka",
+    "lastName": "Boyle",
+    "dateOfBirth": "1947-11-02",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/279156C",
+    "croNumber": "78654/97K",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

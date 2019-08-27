@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8917KN",
+    "firstName": "Pierre",
+    "middleNames": "Jon",
+    "lastName": "Hegmann",
+    "dateOfBirth": "1958-08-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LHI",
+    "latestLocation": "LINDHOLME (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/492163J",
+    "croNumber": "93128/52U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

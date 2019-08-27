@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R8231WX",
+    "firstName": "Woodrow",
+    "middleNames": "Cherise",
+    "lastName": "Swaniawski",
+    "dateOfBirth": "1954-03-04",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EEI",
+    "latestLocation": "ERLESTOKE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/896351H",
+    "croNumber": "75829/68N",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Romania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

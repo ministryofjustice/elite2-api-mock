@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V8792RH",
+    "firstName": "Randa",
+    "middleNames": "Juliane",
+    "lastName": "Kris",
+    "dateOfBirth": "1942-11-02",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "IWI",
+    "latestLocation": "ISLE OF WIGHT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/745392H",
+    "croNumber": "53496/79M",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "England",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

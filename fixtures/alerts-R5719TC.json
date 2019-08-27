@@ -1,0 +1,34 @@
+[
+  {
+    "alertId": 2,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA1",
+    "alertCodeDescription": "ACCT Post Closure (HMPS)",
+    "comment": null,
+    "dateCreated": "2012-12-24",
+    "dateExpires": "2018-02-25",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "FOSTER",
+    "addedByLastName": "BATZ",
+    "expiredByFirstName": "EVAN",
+    "expiredByLastName": "JOHNS"
+  },
+  {
+    "alertId": 1,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA",
+    "alertCodeDescription": "ACCT Open (HMPS)",
+    "comment": null,
+    "dateCreated": "2011-01-27",
+    "dateExpires": "2015-08-09",
+    "expired": true,
+    "active": false,
+    "addedByFirstName": "EMA",
+    "addedByLastName": "HEGMANN",
+    "expiredByFirstName": "JERE",
+    "expiredByLastName": "BEER"
+  }
+]

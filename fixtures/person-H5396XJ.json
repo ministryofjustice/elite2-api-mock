@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H5396XJ",
+    "firstName": "Nova",
+    "middleNames": "Benedict",
+    "lastName": "Daugherty",
+    "dateOfBirth": "1960-10-19",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HVI",
+    "latestLocation": "HAVERIGG (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "86/143756J",
+    "croNumber": "21859/35J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "England",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

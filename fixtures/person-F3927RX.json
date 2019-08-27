@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3927RX",
+    "firstName": "Harrison",
+    "middleNames": "Quincy",
+    "lastName": "Tremblay",
+    "dateOfBirth": "1989-08-12",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SDI",
+    "latestLocation": "SEND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/928453T",
+    "croNumber": "63879/43K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H1472TV",
+    "firstName": "Kym",
+    "middleNames": "Toccara",
+    "lastName": "Kuhic",
+    "dateOfBirth": "1983-01-06",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PDI",
+    "latestLocation": "PORTLAND (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "52/935842Y",
+    "croNumber": "79245/75W",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R9278AC",
+    "firstName": "Alesha",
+    "middleNames": "Scotty",
+    "lastName": "Doyle",
+    "dateOfBirth": "1952-11-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WLI",
+    "latestLocation": "WAYLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/916548U",
+    "croNumber": "52934/98F",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

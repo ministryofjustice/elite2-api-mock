@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4921KH",
+    "firstName": "Joey",
+    "middleNames": "Hosea",
+    "lastName": "Hansen",
+    "dateOfBirth": "1998-07-26",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UKI",
+    "latestLocation": "USK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/653412V",
+    "croNumber": "83415/89N",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Romania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R7596VE",
+    "firstName": "Roy",
+    "middleNames": "Jason",
+    "lastName": "Kuphal",
+    "dateOfBirth": "1948-06-30",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BAI",
+    "latestLocation": "BELMARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/931845K",
+    "croNumber": "53698/41J",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Albania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

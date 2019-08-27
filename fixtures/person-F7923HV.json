@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F7923HV",
+    "firstName": "Nadene",
+    "middleNames": "Rina",
+    "lastName": "Turcotte",
+    "dateOfBirth": "1972-02-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ONI",
+    "latestLocation": "ONLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/217854K",
+    "croNumber": "39582/52Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

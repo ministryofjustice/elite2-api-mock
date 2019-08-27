@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y9251RV",
+    "firstName": "Teddy",
+    "middleNames": "Sherman",
+    "lastName": "McClure",
+    "dateOfBirth": "1969-08-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MTI",
+    "latestLocation": "THE MOUNT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/628147K",
+    "croNumber": "62438/18A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

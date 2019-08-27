@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J2743HM",
+    "firstName": "Melvin",
+    "middleNames": "Forrest",
+    "lastName": "Waters",
+    "dateOfBirth": "1969-06-13",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/179852K",
+    "croNumber": "49385/54P",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

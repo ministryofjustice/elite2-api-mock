@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J5186UY",
+    "firstName": "Maryanna",
+    "middleNames": "Guillermo",
+    "lastName": "Parisian",
+    "dateOfBirth": "1995-11-05",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SFI",
+    "latestLocation": "STAFFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/951374N",
+    "croNumber": "42137/68K",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Pakistan",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

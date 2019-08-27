@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4293RT",
+    "firstName": "Betsey",
+    "middleNames": "Will",
+    "lastName": "Sauer",
+    "dateOfBirth": "1961-02-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/794812E",
+    "croNumber": "95842/28V",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R1964TM",
+    "firstName": "Karl",
+    "middleNames": "Bethanie",
+    "lastName": "McGlynn",
+    "dateOfBirth": "1961-06-19",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SDI",
+    "latestLocation": "SEND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/619827X",
+    "croNumber": "19235/26X",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Australia",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

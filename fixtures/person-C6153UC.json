@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C6153UC",
+    "firstName": "Majorie",
+    "middleNames": "Melba",
+    "lastName": "Hansen",
+    "dateOfBirth": "1989-04-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RCI",
+    "latestLocation": "ROCHESTER (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/517869T",
+    "croNumber": "69185/93P",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

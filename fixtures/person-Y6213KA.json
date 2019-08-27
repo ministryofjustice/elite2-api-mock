@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y6213KA",
+    "firstName": "Karry",
+    "middleNames": "Graham",
+    "lastName": "Mills",
+    "dateOfBirth": "1975-09-02",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SWI",
+    "latestLocation": "SWANSEA (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/897654A",
+    "croNumber": "87231/92J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W6539NF",
+    "firstName": "Lou",
+    "middleNames": "Victor",
+    "lastName": "Nolan",
+    "dateOfBirth": "1949-03-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PRI",
+    "latestLocation": "PARC (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/268134X",
+    "croNumber": "39482/43K",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Sweden",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M3512MU",
+    "firstName": "Dario",
+    "middleNames": "Scotty",
+    "lastName": "Tillman",
+    "dateOfBirth": "1973-12-21",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PFI",
+    "latestLocation": "PETERBOROUGH FEMALE HMP",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/129357W",
+    "croNumber": "94263/14W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Romania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N4689JF",
+    "firstName": "Darline",
+    "middleNames": "Blaine",
+    "lastName": "Harber",
+    "dateOfBirth": "1992-09-27",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DHI",
+    "latestLocation": "DRAKE HALL (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "42/123865W",
+    "croNumber": "98216/41M",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Morocco",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

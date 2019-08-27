@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2647XJ",
+    "firstName": "Yolonda",
+    "middleNames": "Charley",
+    "lastName": "Bins",
+    "dateOfBirth": "1943-05-21",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RNI",
+    "latestLocation": "RANBY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/938524E",
+    "croNumber": "12473/72X",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

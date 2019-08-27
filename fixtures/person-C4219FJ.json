@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C4219FJ",
+    "firstName": "Celine",
+    "middleNames": "Dominga",
+    "lastName": "Smith",
+    "dateOfBirth": "1954-10-28",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "27/176453V",
+    "croNumber": "71589/84A",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

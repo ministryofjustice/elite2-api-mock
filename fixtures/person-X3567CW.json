@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3567CW",
+    "firstName": "Jamal",
+    "middleNames": "Evalyn",
+    "lastName": "Bode",
+    "dateOfBirth": "1972-02-16",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ONI",
+    "latestLocation": "ONLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/758643U",
+    "croNumber": "29714/58V",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

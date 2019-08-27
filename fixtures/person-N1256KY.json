@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N1256KY",
+    "firstName": "Everette",
+    "middleNames": "Melisa",
+    "lastName": "Pouros",
+    "dateOfBirth": "1955-09-12",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HHI",
+    "latestLocation": "HOLME HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/862374J",
+    "croNumber": "92456/93V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

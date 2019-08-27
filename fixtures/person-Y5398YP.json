@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y5398YP",
+    "firstName": "Dee",
+    "middleNames": "Vanessa",
+    "lastName": "Oberbrunner",
+    "dateOfBirth": "1997-04-11",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GMI",
+    "latestLocation": "GUYS MARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/695418C",
+    "croNumber": "27183/24X",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

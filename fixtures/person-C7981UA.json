@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C7981UA",
+    "firstName": "Ramiro",
+    "middleNames": "Julie",
+    "lastName": "Nolan",
+    "dateOfBirth": "1997-09-02",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/178425W",
+    "croNumber": "43269/78W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1489JF",
+    "firstName": "Fredric",
+    "middleNames": "Josh",
+    "lastName": "Dickens",
+    "dateOfBirth": "1973-03-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DGI",
+    "latestLocation": "DOVEGATE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/742156C",
+    "croNumber": "76489/79H",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Poland",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

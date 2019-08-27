@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E5481MR",
+    "firstName": "Wiley",
+    "middleNames": "Leroy",
+    "lastName": "Maggio",
+    "dateOfBirth": "1992-04-16",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HII",
+    "latestLocation": "HINDLEY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/132986A",
+    "croNumber": "29685/48J",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

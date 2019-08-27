@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A5431XT",
+    "firstName": "Liana",
+    "middleNames": "Shana",
+    "lastName": "Goyette",
+    "dateOfBirth": "1965-07-12",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DNI",
+    "latestLocation": "DONCASTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/587136A",
+    "croNumber": "85417/62Y",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "England",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

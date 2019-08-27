@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8327HC",
+    "firstName": "Rivka",
+    "middleNames": "Al",
+    "lastName": "Senger",
+    "dateOfBirth": "1974-09-28",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RSI",
+    "latestLocation": "RISLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/276495H",
+    "croNumber": "91375/29A",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

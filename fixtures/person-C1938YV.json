@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C1938YV",
+    "firstName": "Evelia",
+    "middleNames": "Gwen",
+    "lastName": "Breitenberg",
+    "dateOfBirth": "1941-11-21",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WSI",
+    "latestLocation": "WORMWOOD SCRUBS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/286395W",
+    "croNumber": "46917/98T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

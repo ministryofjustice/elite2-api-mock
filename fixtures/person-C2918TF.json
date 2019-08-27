@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C2918TF",
+    "firstName": "Alvaro",
+    "middleNames": "Malena",
+    "lastName": "Zieme",
+    "dateOfBirth": "1976-11-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/265718K",
+    "croNumber": "75842/67M",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

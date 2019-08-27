@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E6821TN",
+    "firstName": "Kacy",
+    "middleNames": "Sherri",
+    "lastName": "Parisian",
+    "dateOfBirth": "1970-07-14",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HBI",
+    "latestLocation": "HOLLESLEY BAY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "59/485176C",
+    "croNumber": "87314/69T",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Sweden",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

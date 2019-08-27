@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "H",
+    "alertTypeDescription": "Self Harm",
+    "alertCode": "HA",
+    "alertCodeDescription": "ACCT Open (HMPS)",
+    "comment": null,
+    "dateCreated": "2010-03-27",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "SHARRI",
+    "addedByLastName": "HEIDENREICH",
+    "expiredByFirstName": "DEMARCUS",
+    "expiredByLastName": "O'REILLY",
+    "dateExpires": "2016-05-31"
+  }
+]

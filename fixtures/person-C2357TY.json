@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C2357TY",
+    "firstName": "Dani",
+    "middleNames": "Hyacinth",
+    "lastName": "Schamberger",
+    "dateOfBirth": "1969-12-31",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WSI",
+    "latestLocation": "WORMWOOD SCRUBS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/243895T",
+    "croNumber": "65847/49N",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

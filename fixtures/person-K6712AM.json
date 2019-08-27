@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6712AM",
+    "firstName": "Wayne",
+    "middleNames": "Melina",
+    "lastName": "Gutkowski",
+    "dateOfBirth": "1954-09-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/839724H",
+    "croNumber": "84976/41W",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

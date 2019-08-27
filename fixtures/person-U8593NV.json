@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U8593NV",
+    "firstName": "Mitchel",
+    "middleNames": "Tory",
+    "lastName": "Hoeger",
+    "dateOfBirth": "1980-03-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PNI",
+    "latestLocation": "PRESTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/189426A",
+    "croNumber": "76354/67E",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

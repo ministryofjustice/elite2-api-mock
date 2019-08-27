@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8495YC",
+    "firstName": "Lyndon",
+    "middleNames": "Ela",
+    "lastName": "DuBuque",
+    "dateOfBirth": "1952-04-08",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/492876E",
+    "croNumber": "94257/89J",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Greece",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

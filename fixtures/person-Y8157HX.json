@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y8157HX",
+    "firstName": "Mikel",
+    "middleNames": "Rosaria",
+    "lastName": "Harber",
+    "dateOfBirth": "1954-09-05",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LEI",
+    "latestLocation": "LEEDS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "59/895164T",
+    "croNumber": "18679/58X",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Romania",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

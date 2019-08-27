@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H5932WA",
+    "firstName": "Dalton",
+    "middleNames": "Truman",
+    "lastName": "Stanton",
+    "dateOfBirth": "1951-05-16",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HMI",
+    "latestLocation": "HUMBER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "29/176842A",
+    "croNumber": "21473/23M",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Greece",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

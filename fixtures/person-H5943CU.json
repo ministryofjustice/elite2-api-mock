@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H5943CU",
+    "firstName": "Lanny",
+    "middleNames": "Chet",
+    "lastName": "Romaguera",
+    "dateOfBirth": "1979-11-24",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DMI",
+    "latestLocation": "DURHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "18/291736M",
+    "croNumber": "61345/32V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Sweden",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

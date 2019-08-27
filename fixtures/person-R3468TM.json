@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R3468TM",
+    "firstName": "Alise",
+    "middleNames": "Monty",
+    "lastName": "Romaguera",
+    "dateOfBirth": "1942-05-30",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BFI",
+    "latestLocation": "BEDFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/365781J",
+    "croNumber": "64719/82E",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

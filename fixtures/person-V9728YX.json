@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9728YX",
+    "firstName": "Julio",
+    "middleNames": "Lauren",
+    "lastName": "Larson",
+    "dateOfBirth": "1999-08-03",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WMI",
+    "latestLocation": "WYMOTT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/685741F",
+    "croNumber": "64532/79T",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

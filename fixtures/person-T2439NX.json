@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T2439NX",
+    "firstName": "Dale",
+    "middleNames": "Hiram",
+    "lastName": "Carroll",
+    "dateOfBirth": "1950-04-03",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PBI",
+    "latestLocation": "PETERBOROUGH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/761438M",
+    "croNumber": "78439/73N",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

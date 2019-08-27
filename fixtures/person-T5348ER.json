@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T5348ER",
+    "firstName": "Star",
+    "middleNames": "Virgilio",
+    "lastName": "Watsica",
+    "dateOfBirth": "1950-11-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SKI",
+    "latestLocation": "STOCKEN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "63/754389H",
+    "croNumber": "85964/35T",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Viet Nam",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

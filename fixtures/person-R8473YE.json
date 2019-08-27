@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R8473YE",
+    "firstName": "Lucien",
+    "middleNames": "Queenie",
+    "lastName": "Mann",
+    "dateOfBirth": "1984-03-23",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "27/276149T",
+    "croNumber": "59864/85P",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Poland",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

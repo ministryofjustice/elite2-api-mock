@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A1652EX",
+    "firstName": "Halley",
+    "middleNames": "Alpha",
+    "lastName": "Purdy",
+    "dateOfBirth": "1995-09-06",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BWI",
+    "latestLocation": "BERWYN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/561874T",
+    "croNumber": "72853/27C",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

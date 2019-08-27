@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1268JC",
+    "firstName": "Stevie",
+    "middleNames": "Eneida",
+    "lastName": "Koss",
+    "dateOfBirth": "1962-10-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MDI",
+    "latestLocation": "MOORLAND (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/814576K",
+    "croNumber": "65413/42R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Hungary",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K1642NT",
+    "firstName": "Elbert",
+    "middleNames": "Shayne",
+    "lastName": "Wilderman",
+    "dateOfBirth": "1955-04-12",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WMI",
+    "latestLocation": "WYMOTT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/526873F",
+    "croNumber": "91345/56P",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

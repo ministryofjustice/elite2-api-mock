@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V6237JK",
+    "firstName": "Patrina",
+    "middleNames": "Tish",
+    "lastName": "Bergstrom",
+    "dateOfBirth": "1950-01-28",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HCI",
+    "latestLocation": "HUNTERCOMBE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "15/231749F",
+    "croNumber": "15723/69J",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

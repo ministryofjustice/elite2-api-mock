@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J7528WT",
+    "firstName": "Alvaro",
+    "middleNames": "Percy",
+    "lastName": "Jones",
+    "dateOfBirth": "1954-01-08",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ONI",
+    "latestLocation": "ONLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/754693V",
+    "croNumber": "12789/79E",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

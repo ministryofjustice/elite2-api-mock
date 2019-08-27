@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W1235AJ",
+    "firstName": "Eldon",
+    "middleNames": "Noel",
+    "lastName": "Mohr",
+    "dateOfBirth": "1981-04-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HCI",
+    "latestLocation": "HUNTERCOMBE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/368915C",
+    "croNumber": "29578/57P",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Viet Nam",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

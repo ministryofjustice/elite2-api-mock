@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H7584AP",
+    "firstName": "Missy",
+    "middleNames": "Gabrielle",
+    "lastName": "Leannon",
+    "dateOfBirth": "1991-04-05",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/374852V",
+    "croNumber": "52463/54J",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Sweden",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

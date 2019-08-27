@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R3845KP",
+    "firstName": "Shelba",
+    "middleNames": "Carl",
+    "lastName": "Corkery",
+    "dateOfBirth": "1977-11-19",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WCI",
+    "latestLocation": "WINCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/298367A",
+    "croNumber": "83624/24X",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Australia",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

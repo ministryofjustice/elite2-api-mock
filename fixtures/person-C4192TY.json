@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C4192TY",
+    "firstName": "Devon",
+    "middleNames": "Sonny",
+    "lastName": "Koss",
+    "dateOfBirth": "1964-03-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WWI",
+    "latestLocation": "WANDSWORTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/714932E",
+    "croNumber": "57891/43E",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X4673FU",
+    "firstName": "Yolonda",
+    "middleNames": "Doria",
+    "lastName": "Towne",
+    "dateOfBirth": "1946-03-10",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "14/617493K",
+    "croNumber": "68235/67M",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

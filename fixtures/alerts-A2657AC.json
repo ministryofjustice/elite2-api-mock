@@ -1,0 +1,34 @@
+[
+  {
+    "alertId": 2,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RPB",
+    "alertCodeDescription": "Risk to Public - Community",
+    "comment": null,
+    "dateCreated": "2012-04-25",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "KESHA",
+    "addedByLastName": "BROWN",
+    "expiredByFirstName": "JULIUS",
+    "expiredByLastName": "KUNZE",
+    "dateExpires": "2017-04-25"
+  },
+  {
+    "alertId": 1,
+    "alertType": "X",
+    "alertTypeDescription": "Security",
+    "alertCode": "XVL",
+    "alertCodeDescription": "Violent",
+    "dateCreated": "2010-11-08",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ANASTASIA",
+    "addedByLastName": "KUTCH",
+    "expiredByFirstName": "KAROLINE",
+    "expiredByLastName": "ULLRICH",
+    "dateExpires": "2017-03-16",
+    "comment": null
+  }
+]

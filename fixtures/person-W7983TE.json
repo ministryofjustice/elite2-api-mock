@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W7983TE",
+    "firstName": "Florentino",
+    "middleNames": "Ernesto",
+    "lastName": "Turcotte",
+    "dateOfBirth": "1948-12-19",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DHI",
+    "latestLocation": "DRAKE HALL (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "34/567438W",
+    "croNumber": "43679/17U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

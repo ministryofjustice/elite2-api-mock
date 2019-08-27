@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V7962NY",
+    "firstName": "Burton",
+    "middleNames": "Kendall",
+    "lastName": "Green",
+    "dateOfBirth": "1993-05-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RCI",
+    "latestLocation": "ROCHESTER (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "31/843267E",
+    "croNumber": "43751/34H",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Poland",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

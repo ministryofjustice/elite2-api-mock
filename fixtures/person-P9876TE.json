@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9876TE",
+    "firstName": "Sheldon",
+    "middleNames": "Art",
+    "lastName": "Swift",
+    "dateOfBirth": "1946-07-13",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HOI",
+    "latestLocation": "HIGH DOWN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "47/642987K",
+    "croNumber": "51783/42C",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Italy",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

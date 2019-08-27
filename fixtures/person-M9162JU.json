@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M9162JU",
+    "firstName": "Dallas",
+    "middleNames": "Kimberlee",
+    "lastName": "O'Hara",
+    "dateOfBirth": "1983-03-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NSI",
+    "latestLocation": "NORTH SEA CAMP (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/654387T",
+    "croNumber": "83576/43N",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

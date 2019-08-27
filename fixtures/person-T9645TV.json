@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T9645TV",
+    "firstName": "Armida",
+    "middleNames": "Stanley",
+    "lastName": "Cole",
+    "dateOfBirth": "1977-11-21",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MWI",
+    "latestLocation": "MEDWAY (STC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/564721N",
+    "croNumber": "45691/61Y",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

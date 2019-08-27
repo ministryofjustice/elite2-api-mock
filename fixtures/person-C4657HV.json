@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C4657HV",
+    "firstName": "Ceola",
+    "middleNames": "Luvenia",
+    "lastName": "Stracke",
+    "dateOfBirth": "1945-02-10",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CKI",
+    "latestLocation": "COOKHAM WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/146579H",
+    "croNumber": "95743/71F",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Morocco",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

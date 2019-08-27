@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V7365HJ",
+    "firstName": "Rachell",
+    "middleNames": "Moshe",
+    "lastName": "McDermott",
+    "dateOfBirth": "1972-05-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WDI",
+    "latestLocation": "WAKEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "79/418725T",
+    "croNumber": "23579/28F",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

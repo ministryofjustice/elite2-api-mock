@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A3645PK",
+    "firstName": "Lorenza",
+    "middleNames": "Adalberto",
+    "lastName": "Ruecker",
+    "dateOfBirth": "1943-02-08",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HPI",
+    "latestLocation": "HIGHPOINT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/469573J",
+    "croNumber": "35982/93C",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Sweden",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

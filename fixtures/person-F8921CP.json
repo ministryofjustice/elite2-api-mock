@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8921CP",
+    "firstName": "Annette",
+    "middleNames": "Randolph",
+    "lastName": "Harber",
+    "dateOfBirth": "1988-11-28",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TSI",
+    "latestLocation": "THAMESIDE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/927468A",
+    "croNumber": "91483/98C",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

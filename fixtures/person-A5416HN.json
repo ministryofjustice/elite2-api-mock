@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A5416HN",
+    "firstName": "Domenica",
+    "middleNames": "Chuck",
+    "lastName": "Veum",
+    "dateOfBirth": "1983-07-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CKI",
+    "latestLocation": "COOKHAM WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/478125M",
+    "croNumber": "57483/38A",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

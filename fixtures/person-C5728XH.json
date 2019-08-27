@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C5728XH",
+    "firstName": "Lasandra",
+    "middleNames": "Lacie",
+    "lastName": "Mayert",
+    "dateOfBirth": "1954-08-17",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EHI",
+    "latestLocation": "STANDFORD HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "41/123568C",
+    "croNumber": "81435/85Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

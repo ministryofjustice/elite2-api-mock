@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8751NJ",
+    "firstName": "Jennie",
+    "middleNames": "Donny",
+    "lastName": "Moen",
+    "dateOfBirth": "1986-10-21",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SFI",
+    "latestLocation": "STAFFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/168759T",
+    "croNumber": "18594/42E",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

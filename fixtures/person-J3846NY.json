@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J3846NY",
+    "firstName": "Justin",
+    "middleNames": "Eleni",
+    "lastName": "Torp",
+    "dateOfBirth": "1990-07-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/246951J",
+    "croNumber": "38564/62R",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

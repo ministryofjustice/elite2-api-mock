@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A3829AX",
+    "firstName": "Garland",
+    "middleNames": "Wilson",
+    "lastName": "Stroman",
+    "dateOfBirth": "1973-03-16",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BXI",
+    "latestLocation": "BRIXTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/412873C",
+    "croNumber": "95462/74V",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Poland",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

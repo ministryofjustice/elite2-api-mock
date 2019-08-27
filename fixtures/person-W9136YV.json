@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W9136YV",
+    "firstName": "Jeff",
+    "middleNames": "Lawrence",
+    "lastName": "McCullough",
+    "dateOfBirth": "1947-09-05",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EXI",
+    "latestLocation": "EXETER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/195362X",
+    "croNumber": "93256/15C",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

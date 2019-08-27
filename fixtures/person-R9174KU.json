@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R9174KU",
+    "firstName": "Edwina",
+    "middleNames": "Aide",
+    "lastName": "Okuneva",
+    "dateOfBirth": "1945-07-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/489326N",
+    "croNumber": "98412/69M",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Morocco",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

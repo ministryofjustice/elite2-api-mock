@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T7268MT",
+    "firstName": "Olen",
+    "middleNames": "Humberto",
+    "lastName": "Mayer",
+    "dateOfBirth": "1994-08-25",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PRI",
+    "latestLocation": "PARC (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/235864H",
+    "croNumber": "68243/12P",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

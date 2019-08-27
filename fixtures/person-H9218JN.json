@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H9218JN",
+    "firstName": "Coleman",
+    "middleNames": "Jarod",
+    "lastName": "White",
+    "dateOfBirth": "1984-03-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MDI",
+    "latestLocation": "MOORLAND (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "48/389651W",
+    "croNumber": "41279/49N",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Sweden",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

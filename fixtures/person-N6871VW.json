@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N6871VW",
+    "firstName": "Kimberly",
+    "middleNames": "Rodolfo",
+    "lastName": "Roob",
+    "dateOfBirth": "1949-05-10",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EXI",
+    "latestLocation": "EXETER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/251693N",
+    "croNumber": "37184/75R",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

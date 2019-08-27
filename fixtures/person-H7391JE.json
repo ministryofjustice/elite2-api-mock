@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H7391JE",
+    "firstName": "Shayne",
+    "middleNames": "Leisha",
+    "lastName": "Frami",
+    "dateOfBirth": "1994-08-18",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SHI",
+    "latestLocation": "STOKE HEATH (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/137652J",
+    "croNumber": "95268/83R",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

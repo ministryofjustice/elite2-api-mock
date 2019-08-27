@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6938AY",
+    "firstName": "Max",
+    "middleNames": "Maureen",
+    "lastName": "Batz",
+    "dateOfBirth": "1946-02-08",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/816935U",
+    "croNumber": "82619/47H",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Viet Nam",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

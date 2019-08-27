@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U7152FN",
+    "firstName": "Nickole",
+    "middleNames": "Marcel",
+    "lastName": "Kris",
+    "dateOfBirth": "1955-11-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/523169U",
+    "croNumber": "95412/52V",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

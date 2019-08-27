@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2657AC",
+    "firstName": "Steven",
+    "middleNames": "Colin",
+    "lastName": "Kiehn",
+    "dateOfBirth": "1941-07-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NMI",
+    "latestLocation": "NOTTINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/623754A",
+    "croNumber": "71843/64J",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

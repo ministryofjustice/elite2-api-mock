@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H5684NR",
+    "firstName": "Gaylord",
+    "middleNames": "Dewitt",
+    "lastName": "Braun",
+    "dateOfBirth": "1977-03-31",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/691735J",
+    "croNumber": "91368/13Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1845FA",
+    "firstName": "Rene",
+    "middleNames": "Love",
+    "lastName": "Kris",
+    "dateOfBirth": "1954-08-24",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HVI",
+    "latestLocation": "HAVERIGG (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/546723W",
+    "croNumber": "61485/12J",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

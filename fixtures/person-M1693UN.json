@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M1693UN",
+    "firstName": "Parker",
+    "middleNames": "Abraham",
+    "lastName": "Herman",
+    "dateOfBirth": "1966-10-21",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BLI",
+    "latestLocation": "BRISTOL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "32/819527C",
+    "croNumber": "87594/17T",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

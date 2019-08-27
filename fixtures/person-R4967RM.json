@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R4967RM",
+    "firstName": "Kareen",
+    "middleNames": "Hae",
+    "lastName": "Langworth",
+    "dateOfBirth": "1943-07-30",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WWI",
+    "latestLocation": "WANDSWORTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "79/619542M",
+    "croNumber": "84137/97N",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

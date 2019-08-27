@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H3974NA",
+    "firstName": "Pilar",
+    "middleNames": "Estefana",
+    "lastName": "Carter",
+    "dateOfBirth": "1998-04-16",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WHI",
+    "latestLocation": "WOODHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/198637M",
+    "croNumber": "57263/13T",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

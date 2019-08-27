@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K3491RK",
+    "firstName": "Alfreda",
+    "middleNames": "Virgil",
+    "lastName": "Walter",
+    "dateOfBirth": "1965-07-04",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MWI",
+    "latestLocation": "MEDWAY (STC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/462197C",
+    "croNumber": "68951/64X",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

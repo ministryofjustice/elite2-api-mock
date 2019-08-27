@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P2391VM",
+    "firstName": "Raleigh",
+    "middleNames": "Bernie",
+    "lastName": "Lowe",
+    "dateOfBirth": "1967-03-22",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AGI",
+    "latestLocation": "ASKHAM GRANGE (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "92/254389N",
+    "croNumber": "61582/13X",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

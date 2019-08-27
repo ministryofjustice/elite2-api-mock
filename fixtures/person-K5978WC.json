@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5978WC",
+    "firstName": "Truman",
+    "middleNames": "Gil",
+    "lastName": "Hauck",
+    "dateOfBirth": "1942-12-24",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EXI",
+    "latestLocation": "EXETER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/718524E",
+    "croNumber": "96321/57R",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

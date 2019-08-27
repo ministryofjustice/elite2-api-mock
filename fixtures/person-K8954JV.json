@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K8954JV",
+    "firstName": "Izetta",
+    "middleNames": "Darin",
+    "lastName": "Nolan",
+    "dateOfBirth": "1971-02-27",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BNI",
+    "latestLocation": "BULLINGDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "74/897463N",
+    "croNumber": "19723/36E",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Morocco",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V9563FP",
+    "firstName": "Renato",
+    "middleNames": "Meghan",
+    "lastName": "Stehr",
+    "dateOfBirth": "1989-01-27",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "16/498137U",
+    "croNumber": "27463/96Y",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Poland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

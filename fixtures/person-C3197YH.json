@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C3197YH",
+    "firstName": "Elmo",
+    "middleNames": "Genaro",
+    "lastName": "Christiansen",
+    "dateOfBirth": "1949-12-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "63/439657J",
+    "croNumber": "28675/74H",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

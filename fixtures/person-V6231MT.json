@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V6231MT",
+    "firstName": "Wilda",
+    "middleNames": "Maribel",
+    "lastName": "Mayer",
+    "dateOfBirth": "1972-06-08",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "OWI",
+    "latestLocation": "OAKWOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/659438U",
+    "croNumber": "49782/48V",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

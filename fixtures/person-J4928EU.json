@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J4928EU",
+    "firstName": "Doloris",
+    "middleNames": "Ailene",
+    "lastName": "Kuhn",
+    "dateOfBirth": "1992-09-14",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/417583U",
+    "croNumber": "56321/96U",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

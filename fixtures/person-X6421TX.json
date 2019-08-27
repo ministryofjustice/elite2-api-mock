@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X6421TX",
+    "firstName": "Wilford",
+    "middleNames": "Saul",
+    "lastName": "Schumm",
+    "dateOfBirth": "1983-04-16",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HVI",
+    "latestLocation": "HAVERIGG (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/123745J",
+    "croNumber": "54618/86Y",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Australia",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

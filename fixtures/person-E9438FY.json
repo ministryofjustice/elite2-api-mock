@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9438FY",
+    "firstName": "Phylicia",
+    "middleNames": "Nanette",
+    "lastName": "McCullough",
+    "dateOfBirth": "1950-03-08",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/269785V",
+    "croNumber": "52461/61X",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Viet Nam",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

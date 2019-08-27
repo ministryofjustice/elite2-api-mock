@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P6971HT",
+    "firstName": "Frederick",
+    "middleNames": "Stewart",
+    "lastName": "Dibbert",
+    "dateOfBirth": "1986-11-13",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KMI",
+    "latestLocation": "KIRKHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "56/297415C",
+    "croNumber": "87291/32Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Poland",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

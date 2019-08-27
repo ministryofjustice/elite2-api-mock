@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K2731KY",
+    "firstName": "Jenee",
+    "middleNames": "Alvaro",
+    "lastName": "Schultz",
+    "dateOfBirth": "1988-12-08",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LYI",
+    "latestLocation": "LEYHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "76/269487E",
+    "croNumber": "21376/72Y",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Hungary",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

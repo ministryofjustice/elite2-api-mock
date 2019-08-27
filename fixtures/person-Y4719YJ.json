@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y4719YJ",
+    "firstName": "Jimmy",
+    "middleNames": "Yi",
+    "lastName": "Howe",
+    "dateOfBirth": "1970-02-01",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/136289U",
+    "croNumber": "34789/82V",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Poland",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "S",
+    "alertTypeDescription": "Sexual Offence",
+    "alertCode": "SONR",
+    "alertCodeDescription": "Sex offender not required to register",
+    "comment": null,
+    "dateCreated": "2009-11-08",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "MARGARITO",
+    "addedByLastName": "TURNER",
+    "expiredByFirstName": "DON",
+    "expiredByLastName": "RATH",
+    "dateExpires": "2017-09-06"
+  }
+]

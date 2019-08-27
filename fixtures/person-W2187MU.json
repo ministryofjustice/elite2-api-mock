@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W2187MU",
+    "firstName": "Joaquin",
+    "middleNames": "Jaclyn",
+    "lastName": "Schoen",
+    "dateOfBirth": "1958-04-24",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "VEI",
+    "latestLocation": "THE VERNE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/862351F",
+    "croNumber": "31248/39Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

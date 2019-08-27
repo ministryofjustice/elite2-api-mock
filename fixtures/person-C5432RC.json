@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C5432RC",
+    "firstName": "King",
+    "middleNames": "Jarrod",
+    "lastName": "Hills",
+    "dateOfBirth": "1941-12-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NMI",
+    "latestLocation": "NOTTINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "35/268479X",
+    "croNumber": "53864/19U",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

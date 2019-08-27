@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W5923AY",
+    "firstName": "Alejandro",
+    "middleNames": "Norris",
+    "lastName": "Kuhic",
+    "dateOfBirth": "1943-04-08",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LLI",
+    "latestLocation": "LONG LARTIN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/639278W",
+    "croNumber": "83946/48F",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

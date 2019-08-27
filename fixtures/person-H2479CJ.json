@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H2479CJ",
+    "firstName": "Stevie",
+    "middleNames": "Vinnie",
+    "lastName": "Stehr",
+    "dateOfBirth": "1956-06-29",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DGI",
+    "latestLocation": "DOVEGATE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/612837A",
+    "croNumber": "56241/98E",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Poland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

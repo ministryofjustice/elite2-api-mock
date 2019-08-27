@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P8539NP",
+    "firstName": "Dale",
+    "middleNames": "Porsha",
+    "lastName": "Weimann",
+    "dateOfBirth": "1943-05-18",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GPI",
+    "latestLocation": "GLEN PARVA (HMPYOI & RC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/416578F",
+    "croNumber": "19453/53H",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

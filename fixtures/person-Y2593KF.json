@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y2593KF",
+    "firstName": "Pat",
+    "middleNames": "Krystin",
+    "lastName": "Waters",
+    "dateOfBirth": "1954-09-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MTI",
+    "latestLocation": "THE MOUNT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/987625W",
+    "croNumber": "18764/14F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

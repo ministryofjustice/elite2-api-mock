@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H2596JF",
+    "firstName": "Thomas",
+    "middleNames": "Carroll",
+    "lastName": "White",
+    "dateOfBirth": "1998-12-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/456138X",
+    "croNumber": "16897/36U",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

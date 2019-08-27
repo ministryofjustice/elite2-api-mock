@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U5674YX",
+    "firstName": "Song",
+    "middleNames": "Pasty",
+    "lastName": "Murray",
+    "dateOfBirth": "1967-11-16",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MSI",
+    "latestLocation": "MAIDSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/145978N",
+    "croNumber": "49876/13P",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "England",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

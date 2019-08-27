@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1924EK",
+    "firstName": "Georgeanna",
+    "middleNames": "Deidre",
+    "lastName": "Mohr",
+    "dateOfBirth": "1990-05-20",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SUI",
+    "latestLocation": "SUDBURY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "75/615749T",
+    "croNumber": "74832/23K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Romania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

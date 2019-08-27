@@ -1,0 +1,18 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RPB",
+    "alertCodeDescription": "Risk to Public - Community",
+    "dateCreated": "2011-05-26",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "TOMAS",
+    "addedByLastName": "KAUTZER",
+    "expiredByFirstName": "HARLAND",
+    "expiredByLastName": "GRIMES",
+    "dateExpires": "2016-09-17",
+    "comment": null
+  }
+]

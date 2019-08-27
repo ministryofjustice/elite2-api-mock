@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R6981AV",
+    "firstName": "Kathie",
+    "middleNames": "Magnolia",
+    "lastName": "Wiza",
+    "dateOfBirth": "1940-04-19",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NWI",
+    "latestLocation": "NORWICH (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "83/856743A",
+    "croNumber": "73915/68K",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Greece",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

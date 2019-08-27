@@ -1,0 +1,50 @@
+[
+  {
+    "alertId": 1,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RLO",
+    "alertCodeDescription": "Low - Workplace Risk Assessment",
+    "dateCreated": "2013-03-24",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "SAMMY",
+    "addedByLastName": "BRAKUS",
+    "expiredByFirstName": "FARAH",
+    "expiredByLastName": "KEELING",
+    "dateExpires": "2018-07-25",
+    "comment": null
+  },
+  {
+    "alertId": 3,
+    "alertType": "O",
+    "alertTypeDescription": "Other",
+    "alertCode": "OHCO",
+    "alertCodeDescription": "Harassment Offences/Court orders",
+    "comment": null,
+    "dateCreated": "2010-04-04",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "ALONA",
+    "addedByLastName": "FADEL",
+    "expiredByFirstName": "JEFFRY",
+    "expiredByLastName": "SPENCER",
+    "dateExpires": "2017-12-22"
+  },
+  {
+    "alertId": 2,
+    "alertType": "R",
+    "alertTypeDescription": "Risk",
+    "alertCode": "RDV",
+    "alertCodeDescription": "Domestic Violence Perpetrator",
+    "dateCreated": "2012-10-14",
+    "expired": false,
+    "active": true,
+    "addedByFirstName": "DAMON",
+    "addedByLastName": "JACOBI",
+    "expiredByFirstName": "BROOK",
+    "expiredByLastName": "SWANIAWSKI",
+    "dateExpires": "2016-04-26",
+    "comment": null
+  }
+]

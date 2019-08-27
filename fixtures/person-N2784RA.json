@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N2784RA",
+    "firstName": "Liza",
+    "middleNames": "Lucien",
+    "lastName": "Weber",
+    "dateOfBirth": "1982-11-08",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "OWI",
+    "latestLocation": "OAKWOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/491562K",
+    "croNumber": "56739/13T",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "England",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

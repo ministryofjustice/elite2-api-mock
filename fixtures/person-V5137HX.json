@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V5137HX",
+    "firstName": "Cathryn",
+    "middleNames": "Jamila",
+    "lastName": "Lehner",
+    "dateOfBirth": "1991-05-24",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GMI",
+    "latestLocation": "GUYS MARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/298413F",
+    "croNumber": "19756/67J",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

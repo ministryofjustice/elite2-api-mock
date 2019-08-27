@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F4653XM",
+    "firstName": "Odell",
+    "middleNames": "Enda",
+    "lastName": "Zieme",
+    "dateOfBirth": "1970-08-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EEI",
+    "latestLocation": "ERLESTOKE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "32/249135W",
+    "croNumber": "75931/68E",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

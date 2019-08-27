@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P3481FA",
+    "firstName": "Woodrow",
+    "middleNames": "Bernard",
+    "lastName": "Mayert",
+    "dateOfBirth": "1944-01-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DTI",
+    "latestLocation": "DEERBOLT (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "94/376925U",
+    "croNumber": "73546/43V",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Pakistan",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

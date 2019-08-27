@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T4279CJ",
+    "firstName": "Elaine",
+    "middleNames": "Krystin",
+    "lastName": "Gaylord",
+    "dateOfBirth": "1994-06-25",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FDI",
+    "latestLocation": "FORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "12/925367Y",
+    "croNumber": "57648/48T",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Hungary",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

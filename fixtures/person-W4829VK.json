@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W4829VK",
+    "firstName": "Jonathon",
+    "middleNames": "Eldon",
+    "lastName": "White",
+    "dateOfBirth": "1946-05-30",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "38/547126A",
+    "croNumber": "91836/61U",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

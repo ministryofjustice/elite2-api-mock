@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N1497MY",
+    "firstName": "Margert",
+    "middleNames": "Pauletta",
+    "lastName": "Rippin",
+    "dateOfBirth": "1942-03-10",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CWI",
+    "latestLocation": "CHANNINGS WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "13/782369C",
+    "croNumber": "79285/25M",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

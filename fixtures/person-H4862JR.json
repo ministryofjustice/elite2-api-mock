@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4862JR",
+    "firstName": "Ferdinand",
+    "middleNames": "Blair",
+    "lastName": "Bogan",
+    "dateOfBirth": "1949-03-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WNI",
+    "latestLocation": "WERRINGTON (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "24/487236R",
+    "croNumber": "81376/46K",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

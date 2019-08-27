@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9725EY",
+    "firstName": "Eldridge",
+    "middleNames": "Edward",
+    "lastName": "Ratke",
+    "dateOfBirth": "1951-11-22",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NSI",
+    "latestLocation": "NORTH SEA CAMP (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/429536K",
+    "croNumber": "16382/49Y",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

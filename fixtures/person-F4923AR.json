@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F4923AR",
+    "firstName": "Katharine",
+    "middleNames": "Verena",
+    "lastName": "Romaguera",
+    "dateOfBirth": "1962-01-06",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NWI",
+    "latestLocation": "NORWICH (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/831574F",
+    "croNumber": "74826/48X",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Poland",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

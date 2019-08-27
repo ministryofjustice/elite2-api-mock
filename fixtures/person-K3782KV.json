@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K3782KV",
+    "firstName": "Brice",
+    "middleNames": "Ka",
+    "lastName": "Bailey",
+    "dateOfBirth": "1984-11-17",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UPI",
+    "latestLocation": "PRESCOED (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "23/425689J",
+    "croNumber": "17534/82V",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

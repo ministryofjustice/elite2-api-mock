@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H3289PY",
+    "firstName": "Julio",
+    "middleNames": "Maynard",
+    "lastName": "Kshlerin",
+    "dateOfBirth": "1972-04-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PDI",
+    "latestLocation": "PORTLAND (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/537481N",
+    "croNumber": "75219/96F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

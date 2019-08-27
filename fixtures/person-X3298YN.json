@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3298YN",
+    "firstName": "Despina",
+    "middleNames": "Taina",
+    "lastName": "Kozey",
+    "dateOfBirth": "1957-11-02",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LII",
+    "latestLocation": "LINCOLN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/861793W",
+    "croNumber": "38925/85K",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

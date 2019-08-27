@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8796WV",
+    "firstName": "Cody",
+    "middleNames": "Carey",
+    "lastName": "Hermiston",
+    "dateOfBirth": "1977-03-08",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FNI",
+    "latestLocation": "FULL SUTTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "54/742391R",
+    "croNumber": "42916/24K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

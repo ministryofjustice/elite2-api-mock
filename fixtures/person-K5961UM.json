@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5961UM",
+    "firstName": "Cornelius",
+    "middleNames": "Chuck",
+    "lastName": "Hartmann",
+    "dateOfBirth": "1996-09-07",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LYI",
+    "latestLocation": "LEYHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "28/386479X",
+    "croNumber": "32187/24U",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Morocco",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

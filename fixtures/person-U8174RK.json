@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U8174RK",
+    "firstName": "Jody",
+    "middleNames": "Rose",
+    "lastName": "Hermiston",
+    "dateOfBirth": "1948-04-10",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HMI",
+    "latestLocation": "HUMBER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "75/815396C",
+    "croNumber": "85479/81F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Italy",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]
