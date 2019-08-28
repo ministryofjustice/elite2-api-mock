@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R4273VM",
+    "firstName": "Emerson",
+    "middleNames": "Brittny",
+    "lastName": "Haley",
+    "dateOfBirth": "1967-08-10",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CLI",
+    "latestLocation": "COLDINGLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "79/948261V",
+    "croNumber": "83615/38M",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

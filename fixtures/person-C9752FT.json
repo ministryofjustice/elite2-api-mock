@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C9752FT",
+    "firstName": "Mana",
+    "middleNames": "Alysha",
+    "lastName": "Legros",
+    "dateOfBirth": "1964-07-04",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "62/765412V",
+    "croNumber": "54917/21E",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

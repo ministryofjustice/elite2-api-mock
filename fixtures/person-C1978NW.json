@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C1978NW",
+    "firstName": "Lynwood",
+    "middleNames": "Refugio",
+    "lastName": "Jenkins",
+    "dateOfBirth": "1996-09-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UPI",
+    "latestLocation": "PRESCOED (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/137485F",
+    "croNumber": "13568/25C",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Scotland",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

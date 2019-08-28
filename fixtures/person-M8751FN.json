@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8751FN",
+    "firstName": "Joan",
+    "middleNames": "Genaro",
+    "lastName": "Abernathy",
+    "dateOfBirth": "1972-04-10",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/391452J",
+    "croNumber": "53186/81F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Viet Nam",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

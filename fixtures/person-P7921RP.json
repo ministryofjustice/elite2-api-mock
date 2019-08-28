@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P7921RP",
+    "firstName": "Shavonne",
+    "middleNames": "Chantell",
+    "lastName": "Hartmann",
+    "dateOfBirth": "1945-01-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "84/913248X",
+    "croNumber": "51382/51K",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Italy",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

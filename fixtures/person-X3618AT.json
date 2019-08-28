@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3618AT",
+    "firstName": "Liz",
+    "middleNames": "Rudolph",
+    "lastName": "Robel",
+    "dateOfBirth": "1940-06-03",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NHI",
+    "latestLocation": "NEW HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/578691W",
+    "croNumber": "95418/62R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

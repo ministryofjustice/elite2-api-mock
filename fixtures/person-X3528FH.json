@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X3528FH",
+    "firstName": "Ben",
+    "middleNames": "Kyle",
+    "lastName": "Senger",
+    "dateOfBirth": "1944-11-16",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MDI",
+    "latestLocation": "MOORLAND (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/176245H",
+    "croNumber": "18549/37R",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Italy",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

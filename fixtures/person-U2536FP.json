@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U2536FP",
+    "firstName": "Star",
+    "middleNames": "Doreen",
+    "lastName": "Grant",
+    "dateOfBirth": "1975-11-06",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LFI",
+    "latestLocation": "LANCASTER FARMS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/195268C",
+    "croNumber": "84536/73R",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

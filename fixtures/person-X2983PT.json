@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2983PT",
+    "firstName": "Dante",
+    "middleNames": "Karleen",
+    "lastName": "Reichert",
+    "dateOfBirth": "1971-05-21",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GNI",
+    "latestLocation": "GRENDON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "72/872149V",
+    "croNumber": "96132/35V",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

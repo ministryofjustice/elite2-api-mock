@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M8359MU",
+    "firstName": "Markus",
+    "middleNames": "Henrietta",
+    "lastName": "Senger",
+    "dateOfBirth": "1962-03-30",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ONI",
+    "latestLocation": "ONLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/179853R",
+    "croNumber": "93712/65R",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Greece",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X2159YK",
+    "firstName": "Willard",
+    "middleNames": "Elroy",
+    "lastName": "Reynolds",
+    "dateOfBirth": "1973-03-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LCI",
+    "latestLocation": "LEICESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/784219R",
+    "croNumber": "26847/79X",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R5732HN",
+    "firstName": "Katrice",
+    "middleNames": "Asa",
+    "lastName": "Towne",
+    "dateOfBirth": "1959-07-07",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "STI",
+    "latestLocation": "STYAL (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/245867W",
+    "croNumber": "27691/83Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Italy",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

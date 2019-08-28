@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N5416HV",
+    "firstName": "Nigel",
+    "middleNames": "Tilda",
+    "lastName": "Ebert",
+    "dateOfBirth": "1986-04-07",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/385219R",
+    "croNumber": "84932/37V",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

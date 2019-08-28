@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V4259MK",
+    "firstName": "Kathe",
+    "middleNames": "Jaymie",
+    "lastName": "Maggio",
+    "dateOfBirth": "1977-07-08",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "85/589462J",
+    "croNumber": "29467/93E",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

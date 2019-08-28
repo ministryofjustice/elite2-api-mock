@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N4816HA",
+    "firstName": "Melisa",
+    "middleNames": "Mana",
+    "lastName": "Bergnaum",
+    "dateOfBirth": "1980-09-03",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WTI",
+    "latestLocation": "WHATTON (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "96/749358F",
+    "croNumber": "46157/27W",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C6391VK",
+    "firstName": "Kendall",
+    "middleNames": "Aurelio",
+    "lastName": "Mills",
+    "dateOfBirth": "1967-11-15",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GTI",
+    "latestLocation": "GARTREE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "78/389475V",
+    "croNumber": "53468/17K",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Romania",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

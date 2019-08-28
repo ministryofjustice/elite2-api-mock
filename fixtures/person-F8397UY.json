@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8397UY",
+    "firstName": "Genoveva",
+    "middleNames": "Hassan",
+    "lastName": "Pollich",
+    "dateOfBirth": "1973-02-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GTI",
+    "latestLocation": "GARTREE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/782143W",
+    "croNumber": "89257/68A",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

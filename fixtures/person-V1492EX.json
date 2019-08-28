@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V1492EX",
+    "firstName": "Lavenia",
+    "middleNames": "Georgie",
+    "lastName": "Towne",
+    "dateOfBirth": "1964-08-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/216395K",
+    "croNumber": "72395/32T",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Viet Nam",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

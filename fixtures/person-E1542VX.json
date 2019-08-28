@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E1542VX",
+    "firstName": "Virgie",
+    "middleNames": "Wendy",
+    "lastName": "Wisoky",
+    "dateOfBirth": "1994-10-27",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/198236E",
+    "croNumber": "82347/39U",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Romania",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

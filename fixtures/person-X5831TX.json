@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X5831TX",
+    "firstName": "Delia",
+    "middleNames": "Scottie",
+    "lastName": "Koepp",
+    "dateOfBirth": "1982-01-13",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "68/814927U",
+    "croNumber": "74235/89M",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Sweden",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

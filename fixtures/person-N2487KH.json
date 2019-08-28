@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "N2487KH",
+    "firstName": "Denver",
+    "middleNames": "Harold",
+    "lastName": "Daniel",
+    "dateOfBirth": "1974-09-03",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/479652R",
+    "croNumber": "25871/78H",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M7216WF",
+    "firstName": "David",
+    "middleNames": "Clinton",
+    "lastName": "Gusikowski",
+    "dateOfBirth": "1983-02-11",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KTI",
+    "latestLocation": "KENNET (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/297863H",
+    "croNumber": "35189/63A",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Hungary",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

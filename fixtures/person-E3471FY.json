@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E3471FY",
+    "firstName": "Christian",
+    "middleNames": "Amie",
+    "lastName": "Goyette",
+    "dateOfBirth": "1970-10-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MRI",
+    "latestLocation": "MANCHESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "98/317926C",
+    "croNumber": "23945/65P",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U7361YC",
+    "firstName": "Collene",
+    "middleNames": "Alexander",
+    "lastName": "Toy",
+    "dateOfBirth": "1969-02-07",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LCI",
+    "latestLocation": "LEICESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/136749F",
+    "croNumber": "57238/14P",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Pakistan",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

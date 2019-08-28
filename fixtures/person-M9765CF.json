@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M9765CF",
+    "firstName": "Olympia",
+    "middleNames": "Cierra",
+    "lastName": "Kassulke",
+    "dateOfBirth": "1953-02-22",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WRI",
+    "latestLocation": "WHITEMOOR (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "89/784659A",
+    "croNumber": "73526/23T",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Albania",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

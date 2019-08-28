@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M6832CK",
+    "firstName": "Corazon",
+    "middleNames": "Matilde",
+    "lastName": "Boyle",
+    "dateOfBirth": "1964-02-22",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HCI",
+    "latestLocation": "HUNTERCOMBE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/679512F",
+    "croNumber": "76315/94K",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

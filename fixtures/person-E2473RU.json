@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E2473RU",
+    "firstName": "Zackary",
+    "middleNames": "Rosia",
+    "lastName": "Franecki",
+    "dateOfBirth": "1993-02-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BAI",
+    "latestLocation": "BELMARSH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/865143E",
+    "croNumber": "97235/48R",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Greece",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

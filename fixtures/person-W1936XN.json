@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W1936XN",
+    "firstName": "Anna",
+    "middleNames": "Phil",
+    "lastName": "Boyer",
+    "dateOfBirth": "1940-03-08",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BSI",
+    "latestLocation": "BRINSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/756982T",
+    "croNumber": "45897/93R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Morocco",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

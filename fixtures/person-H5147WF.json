@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H5147WF",
+    "firstName": "Season",
+    "middleNames": "Darrel",
+    "lastName": "Dare",
+    "dateOfBirth": "1959-04-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LCI",
+    "latestLocation": "LEICESTER (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "28/479851A",
+    "croNumber": "13872/41F",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

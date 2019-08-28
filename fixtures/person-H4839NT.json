@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "H4839NT",
+    "firstName": "Mitchell",
+    "middleNames": "Bethel",
+    "lastName": "Denesik",
+    "dateOfBirth": "1968-02-20",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ESI",
+    "latestLocation": "EAST SUTTON PARK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/269758V",
+    "croNumber": "81942/72W",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

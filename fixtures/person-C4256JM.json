@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C4256JM",
+    "firstName": "Letha",
+    "middleNames": "Willetta",
+    "lastName": "Satterfield",
+    "dateOfBirth": "1944-01-14",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CKI",
+    "latestLocation": "COOKHAM WOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/271435P",
+    "croNumber": "69784/41M",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Viet Nam",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

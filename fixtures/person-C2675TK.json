@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C2675TK",
+    "firstName": "Dexter",
+    "middleNames": "Chin",
+    "lastName": "Schoen",
+    "dateOfBirth": "1948-11-24",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FKI",
+    "latestLocation": "FRANKLAND (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "53/759864F",
+    "croNumber": "31248/41K",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

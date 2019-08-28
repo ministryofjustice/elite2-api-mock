@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F3152TR",
+    "firstName": "Colby",
+    "middleNames": "Viviana",
+    "lastName": "Becker",
+    "dateOfBirth": "1992-08-23",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "61/598317M",
+    "croNumber": "65217/82W",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A2946NK",
+    "firstName": "Ron",
+    "middleNames": "Harlan",
+    "lastName": "Kohler",
+    "dateOfBirth": "1946-04-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SFI",
+    "latestLocation": "STAFFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/674129V",
+    "croNumber": "65187/36W",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Albania",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "TRL",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

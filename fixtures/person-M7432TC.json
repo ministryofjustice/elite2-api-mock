@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M7432TC",
+    "firstName": "Alline",
+    "middleNames": "Raymond",
+    "lastName": "Kuhn",
+    "dateOfBirth": "1954-11-18",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FSI",
+    "latestLocation": "FEATHERSTONE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "39/652793V",
+    "croNumber": "43962/87W",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Pakistan",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

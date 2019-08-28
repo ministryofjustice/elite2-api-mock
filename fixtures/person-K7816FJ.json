@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K7816FJ",
+    "firstName": "Evelia",
+    "middleNames": "Antoine",
+    "lastName": "Shanahan",
+    "dateOfBirth": "1965-12-09",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "DGI",
+    "latestLocation": "DOVEGATE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/872165H",
+    "croNumber": "93456/47R",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Sweden",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

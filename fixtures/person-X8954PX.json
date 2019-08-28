@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8954PX",
+    "firstName": "Barrett",
+    "middleNames": "Calista",
+    "lastName": "McGlynn",
+    "dateOfBirth": "1986-10-31",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/758129K",
+    "croNumber": "79518/13J",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8672WU",
+    "firstName": "Dorla",
+    "middleNames": "Jeannie",
+    "lastName": "Leannon",
+    "dateOfBirth": "1980-03-18",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "71/945832W",
+    "croNumber": "27538/58F",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

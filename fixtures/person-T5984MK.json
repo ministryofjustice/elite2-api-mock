@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T5984MK",
+    "firstName": "Stephaine",
+    "middleNames": "Mable",
+    "lastName": "Prosacco",
+    "dateOfBirth": "1989-04-04",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EWI",
+    "latestLocation": "EASTWOOD PARK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/574193Y",
+    "croNumber": "97284/15X",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Australia",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

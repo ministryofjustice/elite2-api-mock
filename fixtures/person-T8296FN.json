@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T8296FN",
+    "firstName": "Efrain",
+    "middleNames": "Cory",
+    "lastName": "Rowe",
+    "dateOfBirth": "1963-10-09",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "TCI",
+    "latestLocation": "THORN CROSS (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "76/195374N",
+    "croNumber": "41975/54V",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Italy",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

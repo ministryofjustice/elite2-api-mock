@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U7154KC",
+    "firstName": "Derrick",
+    "middleNames": "Eusebia",
+    "lastName": "Carroll",
+    "dateOfBirth": "1977-08-17",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HPI",
+    "latestLocation": "HIGHPOINT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/487219V",
+    "croNumber": "46175/38N",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

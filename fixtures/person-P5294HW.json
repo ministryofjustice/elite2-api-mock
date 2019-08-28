@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P5294HW",
+    "firstName": "Dannie",
+    "middleNames": "Salvador",
+    "lastName": "Romaguera",
+    "dateOfBirth": "1941-08-19",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AGI",
+    "latestLocation": "ASKHAM GRANGE (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "69/489576Y",
+    "croNumber": "52694/21K",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

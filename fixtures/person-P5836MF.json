@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P5836MF",
+    "firstName": "Irwin",
+    "middleNames": "Stanley",
+    "lastName": "Cruickshank",
+    "dateOfBirth": "1948-01-02",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BHI",
+    "latestLocation": "BLANTYRE HOUSE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/985126N",
+    "croNumber": "38417/16F",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "No Religion",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

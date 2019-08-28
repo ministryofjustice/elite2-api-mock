@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y7895CE",
+    "firstName": "Essie",
+    "middleNames": "Roy",
+    "lastName": "Funk",
+    "dateOfBirth": "1945-10-24",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WEI",
+    "latestLocation": "WEALSTUN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/472356P",
+    "croNumber": "39261/79R",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Australia",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

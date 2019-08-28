@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C1782AR",
+    "firstName": "Elden",
+    "middleNames": "Emmett",
+    "lastName": "Klocko",
+    "dateOfBirth": "1992-11-14",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CFI",
+    "latestLocation": "CARDIFF (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/625917K",
+    "croNumber": "47326/69K",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R5219VU",
+    "firstName": "Nannette",
+    "middleNames": "Jeremy",
+    "lastName": "Bechtelar",
+    "dateOfBirth": "1950-09-20",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "OWI",
+    "latestLocation": "OAKWOOD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "21/186249W",
+    "croNumber": "57812/68F",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Australia",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

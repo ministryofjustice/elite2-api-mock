@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K4657CM",
+    "firstName": "Carrol",
+    "middleNames": "Francene",
+    "lastName": "Maggio",
+    "dateOfBirth": "1968-05-09",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WII",
+    "latestLocation": "WARREN HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "37/624513E",
+    "croNumber": "34915/52W",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

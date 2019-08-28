@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F2613PM",
+    "firstName": "Deon",
+    "middleNames": "Carol",
+    "lastName": "Harris",
+    "dateOfBirth": "1995-04-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GPI",
+    "latestLocation": "GLEN PARVA (HMPYOI & RC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "76/439865P",
+    "croNumber": "31584/14U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

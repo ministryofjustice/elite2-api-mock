@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V3617KY",
+    "firstName": "Long",
+    "middleNames": "Nina",
+    "lastName": "Bartoletti",
+    "dateOfBirth": "1956-07-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "41/469517F",
+    "croNumber": "64357/16M",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Albania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

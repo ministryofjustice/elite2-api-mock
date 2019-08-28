@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "V7483KP",
+    "firstName": "Dexter",
+    "middleNames": "Clinton",
+    "lastName": "Labadie",
+    "dateOfBirth": "1991-11-14",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LLI",
+    "latestLocation": "LONG LARTIN (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "18/137468A",
+    "croNumber": "23174/12N",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Scotland",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

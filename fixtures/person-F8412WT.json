@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F8412WT",
+    "firstName": "Bernadette",
+    "middleNames": "Eleonore",
+    "lastName": "Effertz",
+    "dateOfBirth": "1969-03-12",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RSI",
+    "latestLocation": "RISLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "32/321697F",
+    "croNumber": "46821/82A",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Hungary",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

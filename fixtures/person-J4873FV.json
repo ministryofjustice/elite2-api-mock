@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "J4873FV",
+    "firstName": "Zane",
+    "middleNames": "Pearlie",
+    "lastName": "Hayes",
+    "dateOfBirth": "1973-09-28",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "SNI",
+    "latestLocation": "SWINFEN HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/831762V",
+    "croNumber": "49158/54Y",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Romania",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

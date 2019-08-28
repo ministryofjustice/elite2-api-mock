@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R9823KF",
+    "firstName": "Jason",
+    "middleNames": "Gavin",
+    "lastName": "Rempel",
+    "dateOfBirth": "1972-12-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WWI",
+    "latestLocation": "WANDSWORTH (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/297314V",
+    "croNumber": "56347/49J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Romania",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

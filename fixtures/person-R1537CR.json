@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R1537CR",
+    "firstName": "Burma",
+    "middleNames": "Hallie",
+    "lastName": "Schinner",
+    "dateOfBirth": "1939-10-11",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PRI",
+    "latestLocation": "PARC (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "95/892651F",
+    "croNumber": "52349/46A",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Viet Nam",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

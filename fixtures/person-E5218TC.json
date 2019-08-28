@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E5218TC",
+    "firstName": "Myrtis",
+    "middleNames": "Alonso",
+    "lastName": "O'Reilly",
+    "dateOfBirth": "1980-03-30",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "EYI",
+    "latestLocation": "ELMLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "19/623891K",
+    "croNumber": "65174/61N",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

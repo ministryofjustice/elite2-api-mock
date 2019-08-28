@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R3456RV",
+    "firstName": "Hang",
+    "middleNames": "Janessa",
+    "lastName": "Langworth",
+    "dateOfBirth": "1944-02-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WHI",
+    "latestLocation": "WOODHILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/945672X",
+    "croNumber": "63941/83F",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Albania",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y3691MY",
+    "firstName": "Alphonso",
+    "middleNames": "Asa",
+    "lastName": "Emard",
+    "dateOfBirth": "1986-05-02",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "45/782146A",
+    "croNumber": "29465/86P",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Viet Nam",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X9738AK",
+    "firstName": "Mariano",
+    "middleNames": "Virgil",
+    "lastName": "Pouros",
+    "dateOfBirth": "1972-07-19",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "RHI",
+    "latestLocation": "RYE HILL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/162758E",
+    "croNumber": "73965/95E",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Greece",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

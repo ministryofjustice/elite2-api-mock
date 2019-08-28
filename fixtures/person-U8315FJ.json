@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U8315FJ",
+    "firstName": "Angle",
+    "middleNames": "Craig",
+    "lastName": "Mayert",
+    "dateOfBirth": "1980-05-24",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FMI",
+    "latestLocation": "FELTHAM (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/723468M",
+    "croNumber": "82975/63M",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Morocco",
+    "religion": "Atheist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

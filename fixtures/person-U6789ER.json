@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U6789ER",
+    "firstName": "Lanita",
+    "middleNames": "Marna",
+    "lastName": "Kub",
+    "dateOfBirth": "1943-10-08",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FBI",
+    "latestLocation": "FOREST BANK (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/798435V",
+    "croNumber": "38674/35X",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "C8972NP",
+    "firstName": "Heath",
+    "middleNames": "Clark",
+    "lastName": "Ferry",
+    "dateOfBirth": "1987-01-12",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FHI",
+    "latestLocation": "FOSTON HALL (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "43/876231P",
+    "croNumber": "28537/42A",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Greece",
+    "religion": "Rastafarian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

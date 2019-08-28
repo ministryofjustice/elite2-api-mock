@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y8467PN",
+    "firstName": "Lucius",
+    "middleNames": "Stepanie",
+    "lastName": "Crist",
+    "dateOfBirth": "1987-05-12",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "LFI",
+    "latestLocation": "LANCASTER FARMS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "48/972534F",
+    "croNumber": "79816/78X",
+    "ethnicity": "Mixed: White and Black Caribbean",
+    "birthCountry": "Viet Nam",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y3745JC",
+    "firstName": "Rolanda",
+    "middleNames": "Lavern",
+    "lastName": "Conn",
+    "dateOfBirth": "1973-06-25",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UKI",
+    "latestLocation": "USK (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "46/248576W",
+    "croNumber": "45187/24T",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Pakistan",
+    "religion": "Pentecostal",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "R2137WM",
+    "firstName": "Karla",
+    "middleNames": "Lachelle",
+    "lastName": "Howell",
+    "dateOfBirth": "1999-06-29",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CDI",
+    "latestLocation": "CHELMSFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "73/143962E",
+    "croNumber": "84297/74W",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "England",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "SEC38",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

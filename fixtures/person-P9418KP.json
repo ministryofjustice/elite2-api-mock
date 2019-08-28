@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "P9418KP",
+    "firstName": "Orval",
+    "middleNames": "Cortez",
+    "lastName": "Bode",
+    "dateOfBirth": "1987-11-29",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HDI",
+    "latestLocation": "HATFIELD (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "87/871263F",
+    "croNumber": "76429/37X",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Viet Nam",
+    "religion": "No Religion",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "ALP",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6983CF",
+    "firstName": "Ramon",
+    "middleNames": "Calvin",
+    "lastName": "Franecki",
+    "dateOfBirth": "1978-04-04",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WSI",
+    "latestLocation": "WORMWOOD SCRUBS (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "97/195348U",
+    "croNumber": "68312/67U",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Slovakia (Slovak Republic)",
+    "religion": "Atheist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

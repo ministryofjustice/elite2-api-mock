@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U5429AK",
+    "firstName": "Eugena",
+    "middleNames": "Sadye",
+    "lastName": "Hoppe",
+    "dateOfBirth": "1941-09-21",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MTI",
+    "latestLocation": "THE MOUNT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "91/486753F",
+    "croNumber": "21834/87M",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Italy",
+    "religion": "Muslim",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

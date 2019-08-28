@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5492KM",
+    "firstName": "Eliseo",
+    "middleNames": "Stepanie",
+    "lastName": "Emard",
+    "dateOfBirth": "1985-02-04",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BFI",
+    "latestLocation": "BEDFORD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "89/543682J",
+    "croNumber": "17953/65Y",
+    "ethnicity": "Black/Black British: African",
+    "birthCountry": "Scotland",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

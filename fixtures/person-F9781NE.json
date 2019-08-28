@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F9781NE",
+    "firstName": "Hugh",
+    "middleNames": "Tawana",
+    "lastName": "Brown",
+    "dateOfBirth": "1957-11-14",
+    "gender": "Male",
+    "sexCode": "M",
+    "nationalities": "Irish",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "UPI",
+    "latestLocation": "PRESCOED (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "26/235968J",
+    "croNumber": "42739/38J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Australia",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "FTR_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "W8257CV",
+    "firstName": "Tristan",
+    "middleNames": "Bruno",
+    "lastName": "Stroman",
+    "dateOfBirth": "1966-09-11",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WMI",
+    "latestLocation": "WYMOTT (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "25/628173A",
+    "croNumber": "84276/43N",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "England",
+    "religion": "Christian",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M3749KX",
+    "firstName": "Elijah",
+    "middleNames": "Prince",
+    "lastName": "Cormier",
+    "dateOfBirth": "1998-04-27",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "FMI",
+    "latestLocation": "FELTHAM (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "98/752394Y",
+    "croNumber": "74263/67J",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "England",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "SENT03",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

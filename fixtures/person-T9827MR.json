@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "T9827MR",
+    "firstName": "Refugio",
+    "middleNames": "Oda",
+    "lastName": "Rath",
+    "dateOfBirth": "1953-06-20",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "NMI",
+    "latestLocation": "NOTTINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "64/491356U",
+    "croNumber": "13789/81U",
+    "ethnicity": "White: Any other background",
+    "birthCountry": "Sweden",
+    "religion": "Rastafarian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Married or in civil partnership"
+  }
+]

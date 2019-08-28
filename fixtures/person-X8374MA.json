@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X8374MA",
+    "firstName": "Craig",
+    "middleNames": "Todd",
+    "lastName": "Ratke",
+    "dateOfBirth": "1995-07-06",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BZI",
+    "latestLocation": "BRONZEFIELD (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "36/145287P",
+    "croNumber": "64318/76N",
+    "ethnicity": "Asian/Asian British: Indian",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "Y1973FT",
+    "firstName": "Wayne",
+    "middleNames": "Olin",
+    "lastName": "Doyle",
+    "dateOfBirth": "1946-07-10",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "HII",
+    "latestLocation": "HINDLEY (HMP & YOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "58/583617V",
+    "croNumber": "53417/19J",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Scotland",
+    "religion": "Roman Catholic",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

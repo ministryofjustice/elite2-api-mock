@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K6329KA",
+    "firstName": "Natalia",
+    "middleNames": "Francesca",
+    "lastName": "Stoltenberg",
+    "dateOfBirth": "1945-02-21",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "GTI",
+    "latestLocation": "GARTREE (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/835496M",
+    "croNumber": "75481/36U",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Greece",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "MLP",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "K5234NT",
+    "firstName": "Becki",
+    "middleNames": "Delena",
+    "lastName": "Osinski",
+    "dateOfBirth": "1977-07-22",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "American",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "AYI",
+    "latestLocation": "AYLESBURY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "81/813756F",
+    "croNumber": "89136/36Y",
+    "ethnicity": "Black/Black British: Caribbean",
+    "birthCountry": "Sweden",
+    "religion": "Church of England (Anglican)",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

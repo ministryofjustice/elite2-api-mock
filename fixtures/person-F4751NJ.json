@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F4751NJ",
+    "firstName": "Reynaldo",
+    "middleNames": "Nannie",
+    "lastName": "Fahey",
+    "dateOfBirth": "1974-06-05",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "BMI",
+    "latestLocation": "BIRMINGHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "67/571846E",
+    "croNumber": "32758/84V",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "Australia",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

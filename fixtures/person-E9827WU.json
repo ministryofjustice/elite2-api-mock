@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "E9827WU",
+    "firstName": "Joe",
+    "middleNames": "Delma",
+    "lastName": "Streich",
+    "dateOfBirth": "1955-07-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "ISI",
+    "latestLocation": "ISIS HMP/YOI",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "41/419637J",
+    "croNumber": "48362/61W",
+    "ethnicity": "Black/Black British: Any other Backgr'nd",
+    "birthCountry": "Viet Nam",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "ADIMP_ORA",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

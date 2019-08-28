@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "F4968NH",
+    "firstName": "Dennis",
+    "middleNames": "Micha",
+    "lastName": "Thiel",
+    "dateOfBirth": "1943-02-15",
+    "gender": "Female",
+    "sexCode": "F",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "KMI",
+    "latestLocation": "KIRKHAM (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "57/361572J",
+    "croNumber": "75439/12Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Morocco",
+    "religion": "Muslim",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "LASPO_DR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

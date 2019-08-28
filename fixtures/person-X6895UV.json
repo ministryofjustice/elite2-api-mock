@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "X6895UV",
+    "firstName": "Mathew",
+    "middleNames": "Ronnie",
+    "lastName": "Harber",
+    "dateOfBirth": "1945-02-23",
+    "gender": "Male",
+    "sexCode": "F",
+    "nationalities": "Dutch",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "CLI",
+    "latestLocation": "COLDINGLEY (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "65/692751A",
+    "croNumber": "31275/87E",
+    "ethnicity": "Asian/Asian British: Bangladeshi",
+    "birthCountry": "Italy",
+    "religion": "Buddhist",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Single-not married/in civil partnership"
+  }
+]

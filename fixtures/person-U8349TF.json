@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "U8349TF",
+    "firstName": "Eryn",
+    "middleNames": "Lionel",
+    "lastName": "Flatley",
+    "dateOfBirth": "1967-05-27",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "MWI",
+    "latestLocation": "MEDWAY (STC)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "49/981746P",
+    "croNumber": "89715/13Y",
+    "ethnicity": "White: Eng./Welsh/Scot./N.Irish/British",
+    "birthCountry": "Italy",
+    "religion": "Buddhist",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "LIFE",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

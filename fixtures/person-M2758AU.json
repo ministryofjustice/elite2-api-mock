@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "M2758AU",
+    "firstName": "Fletcher",
+    "middleNames": "Shantae",
+    "lastName": "Wisoky",
+    "dateOfBirth": "1997-01-15",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "Japanese",
+    "currentlyInPrison": "Y",
+    "latestBookingId": 1234567,
+    "latestLocationId": "PRI",
+    "latestLocation": "PARC (HMP)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "93/168754W",
+    "croNumber": "31592/76Y",
+    "ethnicity": "Other: Any other background",
+    "birthCountry": "England",
+    "religion": "Pentecostal",
+    "convictedStatus": "Remand",
+    "imprisonmentStatus": "JR",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]

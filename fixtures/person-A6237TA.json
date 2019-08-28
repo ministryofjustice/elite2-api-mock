@@ -1,0 +1,26 @@
+[
+  {
+    "offenderNo": "A6237TA",
+    "firstName": "Dina",
+    "middleNames": "Larue",
+    "lastName": "Upton",
+    "dateOfBirth": "1972-01-27",
+    "gender": "Female",
+    "sexCode": "M",
+    "nationalities": "British",
+    "currentlyInPrison": "N",
+    "latestBookingId": 1234567,
+    "latestLocationId": "WYI",
+    "latestLocation": "WETHERBY (HMPYOI)",
+    "internalLocation": "ABC-D-1-23",
+    "pncNumber": "51/735946R",
+    "croNumber": "85792/86Y",
+    "ethnicity": "Asian/Asian British: Pakistani",
+    "birthCountry": "Scotland",
+    "religion": "Christian",
+    "convictedStatus": "Convicted",
+    "imprisonmentStatus": "UNKNOWN",
+    "receptionDate": null,
+    "maritalStatus": "Prefer not to say"
+  }
+]
